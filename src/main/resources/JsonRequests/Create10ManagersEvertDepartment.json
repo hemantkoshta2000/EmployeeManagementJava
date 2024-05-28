@@ -1,0 +1,882 @@
+[
+  {
+    "name": "Strong Kaufman",
+    "empId": 60000,
+    "role": "MANAGER",
+    "department": "MARKETING",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 68710.86,
+      "currency": "GBP"
+    }
+  },
+  {
+    "name": "Casandra Berry",
+    "empId": 60001,
+    "role": "MANAGER",
+    "department": "FINANCE",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 43018.31,
+      "currency": "INR"
+    }
+  },
+  {
+    "name": "Diaz Conway",
+    "empId": 60002,
+    "role": "MANAGER",
+    "department": "TECH",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 36582.43,
+      "currency": "USD"
+    }
+  },
+  {
+    "name": "Brittney Gates",
+    "empId": 60003,
+    "role": "MANAGER",
+    "department": "MARKETING",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 63504.82,
+      "currency": "USD"
+    }
+  },
+  {
+    "name": "Marsh Hardin",
+    "empId": 60004,
+    "role": "MANAGER",
+    "department": "SALES",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 61761.36,
+      "currency": "USD"
+    }
+  },
+  {
+    "name": "Selena Ryan",
+    "empId": 60005,
+    "role": "MANAGER",
+    "department": "OFFICE_HANDLING",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 38321.93,
+      "currency": "INR"
+    }
+  },
+  {
+    "name": "Everett Pope",
+    "empId": 60006,
+    "role": "MANAGER",
+    "department": "OFFICE_HANDLING",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 64584.79,
+      "currency": "INR"
+    }
+  },
+  {
+    "name": "Heidi Marquez",
+    "empId": 60007,
+    "role": "MANAGER",
+    "department": "FINANCE",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 39931.38,
+      "currency": "INR"
+    }
+  },
+  {
+    "name": "George Hewitt",
+    "empId": 60008,
+    "role": "MANAGER",
+    "department": "MARKETING",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 36308.16,
+      "currency": "GBP"
+    }
+  },
+  {
+    "name": "Hewitt Blankenship",
+    "empId": 60009,
+    "role": "MANAGER",
+    "department": "SECURITY",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 40803.25,
+      "currency": "USD"
+    }
+  },
+  {
+    "name": "Frances Galloway",
+    "empId": 600010,
+    "role": "MANAGER",
+    "department": "TECH",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 39751.36,
+      "currency": "USD"
+    }
+  },
+  {
+    "name": "Esther Whitfield",
+    "empId": 600011,
+    "role": "MANAGER",
+    "department": "HR",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 38651.39,
+      "currency": "INR"
+    }
+  },
+  {
+    "name": "Beard Gonzalez",
+    "empId": 600012,
+    "role": "MANAGER",
+    "department": "OFFICE_HANDLING",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 65669.38,
+      "currency": "USD"
+    }
+  },
+  {
+    "name": "Gabriela Dunn",
+    "empId": 600013,
+    "role": "MANAGER",
+    "department": "TECH",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 38418.6,
+      "currency": "GBP"
+    }
+  },
+  {
+    "name": "Shannon Marsh",
+    "empId": 600014,
+    "role": "MANAGER",
+    "department": "TECH",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 66851.23,
+      "currency": "USD"
+    }
+  },
+  {
+    "name": "Emma Schwartz",
+    "empId": 600015,
+    "role": "MANAGER",
+    "department": "SECURITY",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 45153.62,
+      "currency": "USD"
+    }
+  },
+  {
+    "name": "Geneva Franklin",
+    "empId": 600016,
+    "role": "MANAGER",
+    "department": "TECH",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 50575.32,
+      "currency": "GBP"
+    }
+  },
+  {
+    "name": "Ball Stanley",
+    "empId": 600017,
+    "role": "MANAGER",
+    "department": "HR",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 46613.82,
+      "currency": "INR"
+    }
+  },
+  {
+    "name": "Benjamin Wolf",
+    "empId": 600018,
+    "role": "MANAGER",
+    "department": "LEGAL",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 55012.71,
+      "currency": "GBP"
+    }
+  },
+  {
+    "name": "Jennifer Rowe",
+    "empId": 600019,
+    "role": "MANAGER",
+    "department": "SALES",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 55441.26,
+      "currency": "GBP"
+    }
+  },
+  {
+    "name": "Miles Perkins",
+    "empId": 600020,
+    "role": "MANAGER",
+    "department": "HR",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 50287.22,
+      "currency": "USD"
+    }
+  },
+  {
+    "name": "Shannon Estrada",
+    "empId": 600021,
+    "role": "MANAGER",
+    "department": "TECH",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 68628.6,
+      "currency": "GBP"
+    }
+  },
+  {
+    "name": "Gallagher Bray",
+    "empId": 600022,
+    "role": "MANAGER",
+    "department": "OFFICE_HANDLING",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 39500.83,
+      "currency": "INR"
+    }
+  },
+  {
+    "name": "Baker Lopez",
+    "empId": 600023,
+    "role": "MANAGER",
+    "department": "SECURITY",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 67135.32,
+      "currency": "GBP"
+    }
+  },
+  {
+    "name": "Bean Tyson",
+    "empId": 600024,
+    "role": "MANAGER",
+    "department": "LEGAL",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 40244.92,
+      "currency": "USD"
+    }
+  },
+  {
+    "name": "Lorene Irwin",
+    "empId": 600025,
+    "role": "MANAGER",
+    "department": "SECURITY",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 49806.37,
+      "currency": "GBP"
+    }
+  },
+  {
+    "name": "Latasha Norton",
+    "empId": 600026,
+    "role": "MANAGER",
+    "department": "TECH",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 53019.12,
+      "currency": "INR"
+    }
+  },
+  {
+    "name": "Norris Potter",
+    "empId": 600027,
+    "role": "MANAGER",
+    "department": "SALES",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 37261.18,
+      "currency": "GBP"
+    }
+  },
+  {
+    "name": "Huff Holcomb",
+    "empId": 600028,
+    "role": "MANAGER",
+    "department": "SALES",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 65843.93,
+      "currency": "INR"
+    }
+  },
+  {
+    "name": "Drake Frank",
+    "empId": 600029,
+    "role": "MANAGER",
+    "department": "LEGAL",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 41947.85,
+      "currency": "GBP"
+    }
+  },
+  {
+    "name": "Freeman Good",
+    "empId": 600030,
+    "role": "MANAGER",
+    "department": "OFFICE_HANDLING",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 66468.2,
+      "currency": "INR"
+    }
+  },
+  {
+    "name": "Sharp Greer",
+    "empId": 600031,
+    "role": "MANAGER",
+    "department": "TECH",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 51364.28,
+      "currency": "GBP"
+    }
+  },
+  {
+    "name": "Sosa Lester",
+    "empId": 600032,
+    "role": "MANAGER",
+    "department": "MARKETING",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 56906.5,
+      "currency": "INR"
+    }
+  },
+  {
+    "name": "Kelley Short",
+    "empId": 600033,
+    "role": "MANAGER",
+    "department": "SALES",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 39917.43,
+      "currency": "GBP"
+    }
+  },
+  {
+    "name": "Priscilla Sanford",
+    "empId": 600034,
+    "role": "MANAGER",
+    "department": "SALES",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 39670.5,
+      "currency": "INR"
+    }
+  },
+  {
+    "name": "Ladonna Wilder",
+    "empId": 600035,
+    "role": "MANAGER",
+    "department": "OFFICE_HANDLING",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 43043.38,
+      "currency": "GBP"
+    }
+  },
+  {
+    "name": "Simmons Delaney",
+    "empId": 600036,
+    "role": "MANAGER",
+    "department": "MARKETING",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 38005.9,
+      "currency": "INR"
+    }
+  },
+  {
+    "name": "Erica Stokes",
+    "empId": 600037,
+    "role": "MANAGER",
+    "department": "TECH",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 37092.91,
+      "currency": "INR"
+    }
+  },
+  {
+    "name": "Cunningham Edwards",
+    "empId": 600038,
+    "role": "MANAGER",
+    "department": "OFFICE_HANDLING",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 36043.14,
+      "currency": "INR"
+    }
+  },
+  {
+    "name": "Tamara Kramer",
+    "empId": 600039,
+    "role": "MANAGER",
+    "department": "SALES",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 49399.16,
+      "currency": "USD"
+    }
+  },
+  {
+    "name": "Marcella Lawrence",
+    "empId": 600040,
+    "role": "MANAGER",
+    "department": "FINANCE",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 41085.56,
+      "currency": "GBP"
+    }
+  },
+  {
+    "name": "Martinez Serrano",
+    "empId": 600041,
+    "role": "MANAGER",
+    "department": "FINANCE",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 43512.29,
+      "currency": "GBP"
+    }
+  },
+  {
+    "name": "Letitia Schultz",
+    "empId": 600042,
+    "role": "MANAGER",
+    "department": "OFFICE_HANDLING",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 66294.6,
+      "currency": "USD"
+    }
+  },
+  {
+    "name": "Nanette Haley",
+    "empId": 600043,
+    "role": "MANAGER",
+    "department": "HR",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 52123.6,
+      "currency": "GBP"
+    }
+  },
+  {
+    "name": "Monica Murphy",
+    "empId": 600044,
+    "role": "MANAGER",
+    "department": "SALES",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 69456.61,
+      "currency": "INR"
+    }
+  },
+  {
+    "name": "Traci Turner",
+    "empId": 600045,
+    "role": "MANAGER",
+    "department": "LEGAL",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 66190.13,
+      "currency": "INR"
+    }
+  },
+  {
+    "name": "Cornelia Workman",
+    "empId": 600046,
+    "role": "MANAGER",
+    "department": "MARKETING",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 51471.94,
+      "currency": "USD"
+    }
+  },
+  {
+    "name": "Tanisha Skinner",
+    "empId": 600047,
+    "role": "MANAGER",
+    "department": "SALES",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 35478.16,
+      "currency": "INR"
+    }
+  },
+  {
+    "name": "Malinda Garrison",
+    "empId": 600048,
+    "role": "MANAGER",
+    "department": "FINANCE",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 53784.02,
+      "currency": "USD"
+    }
+  },
+  {
+    "name": "Workman Baxter",
+    "empId": 600049,
+    "role": "MANAGER",
+    "department": "TECH",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 46053.51,
+      "currency": "USD"
+    }
+  },
+  {
+    "name": "Gentry Hobbs",
+    "empId": 600050,
+    "role": "MANAGER",
+    "department": "FINANCE",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 65697.76,
+      "currency": "USD"
+    }
+  },
+  {
+    "name": "Araceli Mosley",
+    "empId": 600051,
+    "role": "MANAGER",
+    "department": "FINANCE",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 53822.05,
+      "currency": "GBP"
+    }
+  },
+  {
+    "name": "Earline Hendricks",
+    "empId": 600052,
+    "role": "MANAGER",
+    "department": "TECH",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 45508.84,
+      "currency": "USD"
+    }
+  },
+  {
+    "name": "Bailey Gibbs",
+    "empId": 600053,
+    "role": "MANAGER",
+    "department": "SALES",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 53238.2,
+      "currency": "USD"
+    }
+  },
+  {
+    "name": "Ernestine Holland",
+    "empId": 600054,
+    "role": "MANAGER",
+    "department": "TECH",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 45399.63,
+      "currency": "GBP"
+    }
+  },
+  {
+    "name": "Jeannie Mccray",
+    "empId": 600055,
+    "role": "MANAGER",
+    "department": "FINANCE",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 49894.97,
+      "currency": "INR"
+    }
+  },
+  {
+    "name": "Letha Brock",
+    "empId": 600056,
+    "role": "MANAGER",
+    "department": "LEGAL",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 44725.48,
+      "currency": "USD"
+    }
+  },
+  {
+    "name": "Dena Payne",
+    "empId": 600057,
+    "role": "MANAGER",
+    "department": "SALES",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 63404.56,
+      "currency": "GBP"
+    }
+  },
+  {
+    "name": "Church Buckner",
+    "empId": 600058,
+    "role": "MANAGER",
+    "department": "LEGAL",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 40678.08,
+      "currency": "INR"
+    }
+  },
+  {
+    "name": "Betsy Copeland",
+    "empId": 600059,
+    "role": "MANAGER",
+    "department": "OFFICE_HANDLING",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 31572.12,
+      "currency": "GBP"
+    }
+  },
+  {
+    "name": "Kirsten Hancock",
+    "empId": 600060,
+    "role": "MANAGER",
+    "department": "MARKETING",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 41679.74,
+      "currency": "GBP"
+    }
+  },
+  {
+    "name": "Frederick Atkins",
+    "empId": 600061,
+    "role": "MANAGER",
+    "department": "LEGAL",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 45187.53,
+      "currency": "USD"
+    }
+  },
+  {
+    "name": "Hilary Bennett",
+    "empId": 600062,
+    "role": "MANAGER",
+    "department": "SECURITY",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 45021.22,
+      "currency": "GBP"
+    }
+  },
+  {
+    "name": "Hodges Chen",
+    "empId": 600063,
+    "role": "MANAGER",
+    "department": "LEGAL",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 31727.46,
+      "currency": "GBP"
+    }
+  },
+  {
+    "name": "Malone Pearson",
+    "empId": 600064,
+    "role": "MANAGER",
+    "department": "HR",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 67865.32,
+      "currency": "USD"
+    }
+  },
+  {
+    "name": "Lyons Richardson",
+    "empId": 600065,
+    "role": "MANAGER",
+    "department": "SALES",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 44074.04,
+      "currency": "GBP"
+    }
+  },
+  {
+    "name": "Tanner Petty",
+    "empId": 600066,
+    "role": "MANAGER",
+    "department": "TECH",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 59478.15,
+      "currency": "USD"
+    }
+  },
+  {
+    "name": "Wilkinson Harding",
+    "empId": 600067,
+    "role": "MANAGER",
+    "department": "MARKETING",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 45650.7,
+      "currency": "USD"
+    }
+  },
+  {
+    "name": "Rosa Dickerson",
+    "empId": 600068,
+    "role": "MANAGER",
+    "department": "MARKETING",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 30259.21,
+      "currency": "USD"
+    }
+  },
+  {
+    "name": "Mariana Mullen",
+    "empId": 600069,
+    "role": "MANAGER",
+    "department": "FINANCE",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 41906.06,
+      "currency": "USD"
+    }
+  },
+  {
+    "name": "April Lucas",
+    "empId": 600070,
+    "role": "MANAGER",
+    "department": "TECH",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 67360.92,
+      "currency": "USD"
+    }
+  },
+  {
+    "name": "Erin Steele",
+    "empId": 600071,
+    "role": "MANAGER",
+    "department": "HR",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 56936.76,
+      "currency": "INR"
+    }
+  },
+  {
+    "name": "Kellie Harmon",
+    "empId": 600072,
+    "role": "MANAGER",
+    "department": "HR",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 60213.23,
+      "currency": "USD"
+    }
+  },
+  {
+    "name": "Albert Morse",
+    "empId": 600073,
+    "role": "MANAGER",
+    "department": "SALES",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 44835.7,
+      "currency": "INR"
+    }
+  },
+  {
+    "name": "Katrina Dyer",
+    "empId": 600074,
+    "role": "MANAGER",
+    "department": "MARKETING",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 33662.57,
+      "currency": "INR"
+    }
+  },
+  {
+    "name": "Lambert Bowen",
+    "empId": 600075,
+    "role": "MANAGER",
+    "department": "FINANCE",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 43752.08,
+      "currency": "INR"
+    }
+  },
+  {
+    "name": "Thomas Erickson",
+    "empId": 600076,
+    "role": "MANAGER",
+    "department": "LEGAL",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 59388.63,
+      "currency": "INR"
+    }
+  },
+  {
+    "name": "Angelica Wilkinson",
+    "empId": 600077,
+    "role": "MANAGER",
+    "department": "TECH",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 50799.93,
+      "currency": "USD"
+    }
+  },
+  {
+    "name": "Baldwin Frederick",
+    "empId": 600078,
+    "role": "MANAGER",
+    "department": "TECH",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 61650.26,
+      "currency": "USD"
+    }
+  },
+  {
+    "name": "Dorothea Davidson",
+    "empId": 600079,
+    "role": "MANAGER",
+    "department": "SECURITY",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 67961.91,
+      "currency": "INR"
+    }
+  }
+]

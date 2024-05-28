@@ -1,0 +1,3256 @@
+{
+  "bulkReports": [
+    {
+      "empId": 40002,
+      "reportsTo": 30000
+    },
+    {
+      "empId": 40005,
+      "reportsTo": 30000
+    },
+    {
+      "empId": 40009,
+      "reportsTo": 30000
+    },
+    {
+      "empId": 400016,
+      "reportsTo": 30002
+    },
+    {
+      "empId": 400021,
+      "reportsTo": 30002
+    },
+    {
+      "empId": 400022,
+      "reportsTo": 30002
+    },
+    {
+      "empId": 40007,
+      "reportsTo": 30005
+    },
+    {
+      "empId": 400010,
+      "reportsTo": 30005
+    },
+    {
+      "empId": 400015,
+      "reportsTo": 30005
+    },
+    {
+      "empId": 400020,
+      "reportsTo": 30005
+    },
+    {
+      "empId": 40000,
+      "reportsTo": 30006
+    },
+    {
+      "empId": 40008,
+      "reportsTo": 30006
+    },
+    {
+      "empId": 400017,
+      "reportsTo": 30006
+    },
+    {
+      "empId": 400018,
+      "reportsTo": 30006
+    },
+    {
+      "empId": 400023,
+      "reportsTo": 30006
+    },
+    {
+      "empId": 40001,
+      "reportsTo": 30003
+    },
+    {
+      "empId": 40004,
+      "reportsTo": 30003
+    },
+    {
+      "empId": 400011,
+      "reportsTo": 30003
+    },
+    {
+      "empId": 40003,
+      "reportsTo": 30001
+    },
+    {
+      "empId": 400014,
+      "reportsTo": 30001
+    },
+    {
+      "empId": 400013,
+      "reportsTo": 30004
+    },
+    {
+      "empId": 40006,
+      "reportsTo": 30007
+    },
+    {
+      "empId": 400012,
+      "reportsTo": 30007
+    },
+    {
+      "empId": 400019,
+      "reportsTo": 30007
+    },
+    {
+      "empId": 500015,
+      "reportsTo": 40002
+    },
+    {
+      "empId": 500017,
+      "reportsTo": 40002
+    },
+    {
+      "empId": 500027,
+      "reportsTo": 40002
+    },
+    {
+      "empId": 500039,
+      "reportsTo": 40002
+    },
+    {
+      "empId": 50002,
+      "reportsTo": 400022
+    },
+    {
+      "empId": 50008,
+      "reportsTo": 400022
+    },
+    {
+      "empId": 500026,
+      "reportsTo": 400016
+    },
+    {
+      "empId": 500028,
+      "reportsTo": 400016
+    },
+    {
+      "empId": 500010,
+      "reportsTo": 400010
+    },
+    {
+      "empId": 500012,
+      "reportsTo": 400020
+    },
+    {
+      "empId": 500016,
+      "reportsTo": 400010
+    },
+    {
+      "empId": 500033,
+      "reportsTo": 400010
+    },
+    {
+      "empId": 50001,
+      "reportsTo": 400018
+    },
+    {
+      "empId": 50009,
+      "reportsTo": 40000
+    },
+    {
+      "empId": 500019,
+      "reportsTo": 40000
+    },
+    {
+      "empId": 500020,
+      "reportsTo": 400017
+    },
+    {
+      "empId": 500023,
+      "reportsTo": 400017
+    },
+    {
+      "empId": 50003,
+      "reportsTo": 40004
+    },
+    {
+      "empId": 50007,
+      "reportsTo": 40001
+    },
+    {
+      "empId": 500013,
+      "reportsTo": 400011
+    },
+    {
+      "empId": 500035,
+      "reportsTo": 400011
+    },
+    {
+      "empId": 500038,
+      "reportsTo": 40004
+    },
+    {
+      "empId": 50000,
+      "reportsTo": 40003
+    },
+    {
+      "empId": 50004,
+      "reportsTo": 400014
+    },
+    {
+      "empId": 500022,
+      "reportsTo": 400014
+    },
+    {
+      "empId": 500029,
+      "reportsTo": 400014
+    },
+    {
+      "empId": 500030,
+      "reportsTo": 400014
+    },
+    {
+      "empId": 500031,
+      "reportsTo": 40003
+    },
+    {
+      "empId": 500037,
+      "reportsTo": 40003
+    },
+    {
+      "empId": 50005,
+      "reportsTo": 400013
+    },
+    {
+      "empId": 50006,
+      "reportsTo": 400013
+    },
+    {
+      "empId": 500018,
+      "reportsTo": 400013
+    },
+    {
+      "empId": 500025,
+      "reportsTo": 400013
+    },
+    {
+      "empId": 500034,
+      "reportsTo": 400013
+    },
+    {
+      "empId": 500011,
+      "reportsTo": 400019
+    },
+    {
+      "empId": 500014,
+      "reportsTo": 40006
+    },
+    {
+      "empId": 500021,
+      "reportsTo": 40006
+    },
+    {
+      "empId": 500024,
+      "reportsTo": 40006
+    },
+    {
+      "empId": 500032,
+      "reportsTo": 400019
+    },
+    {
+      "empId": 500036,
+      "reportsTo": 40006
+    },
+    {
+      "empId": 60002,
+      "reportsTo": 500039
+    },
+    {
+      "empId": 600010,
+      "reportsTo": 500039
+    },
+    {
+      "empId": 600013,
+      "reportsTo": 500027
+    },
+    {
+      "empId": 600014,
+      "reportsTo": 500017
+    },
+    {
+      "empId": 600016,
+      "reportsTo": 500027
+    },
+    {
+      "empId": 600021,
+      "reportsTo": 500017
+    },
+    {
+      "empId": 600026,
+      "reportsTo": 500017
+    },
+    {
+      "empId": 600031,
+      "reportsTo": 500015
+    },
+    {
+      "empId": 600037,
+      "reportsTo": 500017
+    },
+    {
+      "empId": 600049,
+      "reportsTo": 500027
+    },
+    {
+      "empId": 600052,
+      "reportsTo": 500039
+    },
+    {
+      "empId": 600054,
+      "reportsTo": 500027
+    },
+    {
+      "empId": 600066,
+      "reportsTo": 500015
+    },
+    {
+      "empId": 600070,
+      "reportsTo": 500027
+    },
+    {
+      "empId": 600077,
+      "reportsTo": 500017
+    },
+    {
+      "empId": 600078,
+      "reportsTo": 500027
+    },
+    {
+      "empId": 60001,
+      "reportsTo": 500026
+    },
+    {
+      "empId": 60007,
+      "reportsTo": 50002
+    },
+    {
+      "empId": 600040,
+      "reportsTo": 500028
+    },
+    {
+      "empId": 600041,
+      "reportsTo": 50008
+    },
+    {
+      "empId": 600048,
+      "reportsTo": 500026
+    },
+    {
+      "empId": 600050,
+      "reportsTo": 500028
+    },
+    {
+      "empId": 600051,
+      "reportsTo": 500026
+    },
+    {
+      "empId": 600055,
+      "reportsTo": 500026
+    },
+    {
+      "empId": 600069,
+      "reportsTo": 50008
+    },
+    {
+      "empId": 600075,
+      "reportsTo": 500026
+    },
+    {
+      "empId": 600018,
+      "reportsTo": 500033
+    },
+    {
+      "empId": 600024,
+      "reportsTo": 500010
+    },
+    {
+      "empId": 600029,
+      "reportsTo": 500016
+    },
+    {
+      "empId": 600045,
+      "reportsTo": 500012
+    },
+    {
+      "empId": 600056,
+      "reportsTo": 500012
+    },
+    {
+      "empId": 600058,
+      "reportsTo": 500016
+    },
+    {
+      "empId": 600061,
+      "reportsTo": 500012
+    },
+    {
+      "empId": 600063,
+      "reportsTo": 500033
+    },
+    {
+      "empId": 600076,
+      "reportsTo": 500033
+    },
+    {
+      "empId": 60009,
+      "reportsTo": 50009
+    },
+    {
+      "empId": 600015,
+      "reportsTo": 500019
+    },
+    {
+      "empId": 600023,
+      "reportsTo": 500019
+    },
+    {
+      "empId": 600025,
+      "reportsTo": 50001
+    },
+    {
+      "empId": 600062,
+      "reportsTo": 500019
+    },
+    {
+      "empId": 600079,
+      "reportsTo": 500020
+    },
+    {
+      "empId": 60000,
+      "reportsTo": 500035
+    },
+    {
+      "empId": 60003,
+      "reportsTo": 50007
+    },
+    {
+      "empId": 60008,
+      "reportsTo": 50007
+    },
+    {
+      "empId": 600032,
+      "reportsTo": 50007
+    },
+    {
+      "empId": 600036,
+      "reportsTo": 500013
+    },
+    {
+      "empId": 600046,
+      "reportsTo": 500035
+    },
+    {
+      "empId": 600060,
+      "reportsTo": 500013
+    },
+    {
+      "empId": 600067,
+      "reportsTo": 50007
+    },
+    {
+      "empId": 600068,
+      "reportsTo": 500013
+    },
+    {
+      "empId": 600074,
+      "reportsTo": 500013
+    },
+    {
+      "empId": 600011,
+      "reportsTo": 500037
+    },
+    {
+      "empId": 600017,
+      "reportsTo": 50004
+    },
+    {
+      "empId": 600020,
+      "reportsTo": 500031
+    },
+    {
+      "empId": 600043,
+      "reportsTo": 500029
+    },
+    {
+      "empId": 600064,
+      "reportsTo": 500030
+    },
+    {
+      "empId": 600071,
+      "reportsTo": 500030
+    },
+    {
+      "empId": 600072,
+      "reportsTo": 500030
+    },
+    {
+      "empId": 60004,
+      "reportsTo": 500018
+    },
+    {
+      "empId": 600019,
+      "reportsTo": 50005
+    },
+    {
+      "empId": 600027,
+      "reportsTo": 500018
+    },
+    {
+      "empId": 600028,
+      "reportsTo": 500018
+    },
+    {
+      "empId": 600033,
+      "reportsTo": 50005
+    },
+    {
+      "empId": 600034,
+      "reportsTo": 50006
+    },
+    {
+      "empId": 600039,
+      "reportsTo": 50005
+    },
+    {
+      "empId": 600044,
+      "reportsTo": 500034
+    },
+    {
+      "empId": 600047,
+      "reportsTo": 500034
+    },
+    {
+      "empId": 600053,
+      "reportsTo": 50006
+    },
+    {
+      "empId": 600057,
+      "reportsTo": 500018
+    },
+    {
+      "empId": 600065,
+      "reportsTo": 50006
+    },
+    {
+      "empId": 600073,
+      "reportsTo": 500034
+    },
+    {
+      "empId": 60005,
+      "reportsTo": 500014
+    },
+    {
+      "empId": 60006,
+      "reportsTo": 500024
+    },
+    {
+      "empId": 600012,
+      "reportsTo": 500036
+    },
+    {
+      "empId": 600022,
+      "reportsTo": 500011
+    },
+    {
+      "empId": 600030,
+      "reportsTo": 500024
+    },
+    {
+      "empId": 600035,
+      "reportsTo": 500014
+    },
+    {
+      "empId": 600038,
+      "reportsTo": 500014
+    },
+    {
+      "empId": 600042,
+      "reportsTo": 500021
+    },
+    {
+      "empId": 600059,
+      "reportsTo": 500024
+    },
+    {
+      "empId": 70008,
+      "reportsTo": 600026
+    },
+    {
+      "empId": 700013,
+      "reportsTo": 600031
+    },
+    {
+      "empId": 700015,
+      "reportsTo": 600026
+    },
+    {
+      "empId": 700019,
+      "reportsTo": 60002
+    },
+    {
+      "empId": 700023,
+      "reportsTo": 600021
+    },
+    {
+      "empId": 700026,
+      "reportsTo": 600078
+    },
+    {
+      "empId": 700028,
+      "reportsTo": 600054
+    },
+    {
+      "empId": 700035,
+      "reportsTo": 600052
+    },
+    {
+      "empId": 700037,
+      "reportsTo": 600052
+    },
+    {
+      "empId": 700050,
+      "reportsTo": 600066
+    },
+    {
+      "empId": 700057,
+      "reportsTo": 600014
+    },
+    {
+      "empId": 700059,
+      "reportsTo": 600052
+    },
+    {
+      "empId": 700089,
+      "reportsTo": 600013
+    },
+    {
+      "empId": 700096,
+      "reportsTo": 600078
+    },
+    {
+      "empId": 700099,
+      "reportsTo": 600014
+    },
+    {
+      "empId": 7000110,
+      "reportsTo": 600078
+    },
+    {
+      "empId": 7000119,
+      "reportsTo": 600049
+    },
+    {
+      "empId": 7000122,
+      "reportsTo": 600049
+    },
+    {
+      "empId": 7000129,
+      "reportsTo": 600016
+    },
+    {
+      "empId": 7000131,
+      "reportsTo": 600052
+    },
+    {
+      "empId": 7000136,
+      "reportsTo": 600031
+    },
+    {
+      "empId": 7000140,
+      "reportsTo": 60002
+    },
+    {
+      "empId": 7000147,
+      "reportsTo": 600070
+    },
+    {
+      "empId": 7000149,
+      "reportsTo": 600010
+    },
+    {
+      "empId": 70003,
+      "reportsTo": 600069
+    },
+    {
+      "empId": 70004,
+      "reportsTo": 60007
+    },
+    {
+      "empId": 70009,
+      "reportsTo": 600041
+    },
+    {
+      "empId": 700011,
+      "reportsTo": 600055
+    },
+    {
+      "empId": 700014,
+      "reportsTo": 600051
+    },
+    {
+      "empId": 700018,
+      "reportsTo": 600050
+    },
+    {
+      "empId": 700020,
+      "reportsTo": 600075
+    },
+    {
+      "empId": 700024,
+      "reportsTo": 600069
+    },
+    {
+      "empId": 700034,
+      "reportsTo": 60001
+    },
+    {
+      "empId": 700036,
+      "reportsTo": 600041
+    },
+    {
+      "empId": 700058,
+      "reportsTo": 600051
+    },
+    {
+      "empId": 700062,
+      "reportsTo": 600051
+    },
+    {
+      "empId": 700064,
+      "reportsTo": 600055
+    },
+    {
+      "empId": 700065,
+      "reportsTo": 60001
+    },
+    {
+      "empId": 700083,
+      "reportsTo": 600075
+    },
+    {
+      "empId": 700084,
+      "reportsTo": 600055
+    },
+    {
+      "empId": 700085,
+      "reportsTo": 600069
+    },
+    {
+      "empId": 700087,
+      "reportsTo": 600051
+    },
+    {
+      "empId": 700090,
+      "reportsTo": 600048
+    },
+    {
+      "empId": 7000112,
+      "reportsTo": 60001
+    },
+    {
+      "empId": 7000132,
+      "reportsTo": 600050
+    },
+    {
+      "empId": 7000135,
+      "reportsTo": 600040
+    },
+    {
+      "empId": 7000138,
+      "reportsTo": 600040
+    },
+    {
+      "empId": 7000146,
+      "reportsTo": 600048
+    },
+    {
+      "empId": 7000150,
+      "reportsTo": 60001
+    },
+    {
+      "empId": 7000155,
+      "reportsTo": 600055
+    },
+    {
+      "empId": 700012,
+      "reportsTo": 600063
+    },
+    {
+      "empId": 700025,
+      "reportsTo": 600029
+    },
+    {
+      "empId": 700029,
+      "reportsTo": 600024
+    },
+    {
+      "empId": 700043,
+      "reportsTo": 600024
+    },
+    {
+      "empId": 700060,
+      "reportsTo": 600076
+    },
+    {
+      "empId": 700063,
+      "reportsTo": 600056
+    },
+    {
+      "empId": 700069,
+      "reportsTo": 600029
+    },
+    {
+      "empId": 700082,
+      "reportsTo": 600056
+    },
+    {
+      "empId": 700088,
+      "reportsTo": 600058
+    },
+    {
+      "empId": 700093,
+      "reportsTo": 600063
+    },
+    {
+      "empId": 7000104,
+      "reportsTo": 600045
+    },
+    {
+      "empId": 7000109,
+      "reportsTo": 600018
+    },
+    {
+      "empId": 7000113,
+      "reportsTo": 600058
+    },
+    {
+      "empId": 7000121,
+      "reportsTo": 600024
+    },
+    {
+      "empId": 7000144,
+      "reportsTo": 600018
+    },
+    {
+      "empId": 7000148,
+      "reportsTo": 600061
+    },
+    {
+      "empId": 70001,
+      "reportsTo": 600062
+    },
+    {
+      "empId": 70005,
+      "reportsTo": 600062
+    },
+    {
+      "empId": 70007,
+      "reportsTo": 600023
+    },
+    {
+      "empId": 700016,
+      "reportsTo": 600079
+    },
+    {
+      "empId": 700040,
+      "reportsTo": 600062
+    },
+    {
+      "empId": 700045,
+      "reportsTo": 600015
+    },
+    {
+      "empId": 700067,
+      "reportsTo": 60009
+    },
+    {
+      "empId": 700068,
+      "reportsTo": 600079
+    },
+    {
+      "empId": 700071,
+      "reportsTo": 60009
+    },
+    {
+      "empId": 700078,
+      "reportsTo": 60009
+    },
+    {
+      "empId": 700086,
+      "reportsTo": 60009
+    },
+    {
+      "empId": 700092,
+      "reportsTo": 600062
+    },
+    {
+      "empId": 7000100,
+      "reportsTo": 600023
+    },
+    {
+      "empId": 7000106,
+      "reportsTo": 600023
+    },
+    {
+      "empId": 7000107,
+      "reportsTo": 60009
+    },
+    {
+      "empId": 7000120,
+      "reportsTo": 60009
+    },
+    {
+      "empId": 7000156,
+      "reportsTo": 600023
+    },
+    {
+      "empId": 700030,
+      "reportsTo": 600060
+    },
+    {
+      "empId": 700046,
+      "reportsTo": 600036
+    },
+    {
+      "empId": 700048,
+      "reportsTo": 600032
+    },
+    {
+      "empId": 700053,
+      "reportsTo": 60003
+    },
+    {
+      "empId": 700054,
+      "reportsTo": 60000
+    },
+    {
+      "empId": 700061,
+      "reportsTo": 600068
+    },
+    {
+      "empId": 700076,
+      "reportsTo": 600032
+    },
+    {
+      "empId": 700091,
+      "reportsTo": 600067
+    },
+    {
+      "empId": 700095,
+      "reportsTo": 600046
+    },
+    {
+      "empId": 700098,
+      "reportsTo": 600067
+    },
+    {
+      "empId": 7000101,
+      "reportsTo": 600074
+    },
+    {
+      "empId": 7000108,
+      "reportsTo": 600060
+    },
+    {
+      "empId": 7000111,
+      "reportsTo": 600067
+    },
+    {
+      "empId": 7000115,
+      "reportsTo": 600067
+    },
+    {
+      "empId": 7000116,
+      "reportsTo": 600032
+    },
+    {
+      "empId": 7000123,
+      "reportsTo": 600060
+    },
+    {
+      "empId": 7000126,
+      "reportsTo": 600032
+    },
+    {
+      "empId": 7000141,
+      "reportsTo": 600036
+    },
+    {
+      "empId": 7000143,
+      "reportsTo": 600067
+    },
+    {
+      "empId": 7000157,
+      "reportsTo": 600060
+    },
+    {
+      "empId": 70000,
+      "reportsTo": 600011
+    },
+    {
+      "empId": 700017,
+      "reportsTo": 600020
+    },
+    {
+      "empId": 700032,
+      "reportsTo": 600064
+    },
+    {
+      "empId": 700047,
+      "reportsTo": 600020
+    },
+    {
+      "empId": 700049,
+      "reportsTo": 600071
+    },
+    {
+      "empId": 700051,
+      "reportsTo": 600043
+    },
+    {
+      "empId": 700055,
+      "reportsTo": 600072
+    },
+    {
+      "empId": 700066,
+      "reportsTo": 600017
+    },
+    {
+      "empId": 700074,
+      "reportsTo": 600071
+    },
+    {
+      "empId": 700075,
+      "reportsTo": 600072
+    },
+    {
+      "empId": 700079,
+      "reportsTo": 600020
+    },
+    {
+      "empId": 700080,
+      "reportsTo": 600020
+    },
+    {
+      "empId": 700094,
+      "reportsTo": 600072
+    },
+    {
+      "empId": 700097,
+      "reportsTo": 600020
+    },
+    {
+      "empId": 7000117,
+      "reportsTo": 600071
+    },
+    {
+      "empId": 7000128,
+      "reportsTo": 600043
+    },
+    {
+      "empId": 7000130,
+      "reportsTo": 600072
+    },
+    {
+      "empId": 7000134,
+      "reportsTo": 600072
+    },
+    {
+      "empId": 7000153,
+      "reportsTo": 600071
+    },
+    {
+      "empId": 70002,
+      "reportsTo": 60004
+    },
+    {
+      "empId": 700021,
+      "reportsTo": 600027
+    },
+    {
+      "empId": 700027,
+      "reportsTo": 600039
+    },
+    {
+      "empId": 700031,
+      "reportsTo": 600039
+    },
+    {
+      "empId": 700033,
+      "reportsTo": 600034
+    },
+    {
+      "empId": 700042,
+      "reportsTo": 60004
+    },
+    {
+      "empId": 700056,
+      "reportsTo": 600019
+    },
+    {
+      "empId": 700072,
+      "reportsTo": 600047
+    },
+    {
+      "empId": 700073,
+      "reportsTo": 600028
+    },
+    {
+      "empId": 700081,
+      "reportsTo": 600027
+    },
+    {
+      "empId": 7000102,
+      "reportsTo": 600027
+    },
+    {
+      "empId": 7000105,
+      "reportsTo": 600065
+    },
+    {
+      "empId": 7000114,
+      "reportsTo": 600033
+    },
+    {
+      "empId": 7000125,
+      "reportsTo": 600019
+    },
+    {
+      "empId": 7000133,
+      "reportsTo": 600027
+    },
+    {
+      "empId": 7000137,
+      "reportsTo": 600028
+    },
+    {
+      "empId": 7000139,
+      "reportsTo": 600073
+    },
+    {
+      "empId": 7000142,
+      "reportsTo": 600073
+    },
+    {
+      "empId": 7000145,
+      "reportsTo": 600027
+    },
+    {
+      "empId": 7000151,
+      "reportsTo": 600039
+    },
+    {
+      "empId": 7000152,
+      "reportsTo": 600073
+    },
+    {
+      "empId": 7000158,
+      "reportsTo": 600027
+    },
+    {
+      "empId": 7000159,
+      "reportsTo": 600034
+    },
+    {
+      "empId": 70006,
+      "reportsTo": 600035
+    },
+    {
+      "empId": 700010,
+      "reportsTo": 600030
+    },
+    {
+      "empId": 700022,
+      "reportsTo": 60006
+    },
+    {
+      "empId": 700038,
+      "reportsTo": 600035
+    },
+    {
+      "empId": 700039,
+      "reportsTo": 600059
+    },
+    {
+      "empId": 700041,
+      "reportsTo": 600042
+    },
+    {
+      "empId": 700044,
+      "reportsTo": 600059
+    },
+    {
+      "empId": 700052,
+      "reportsTo": 600059
+    },
+    {
+      "empId": 700070,
+      "reportsTo": 600038
+    },
+    {
+      "empId": 700077,
+      "reportsTo": 600038
+    },
+    {
+      "empId": 7000103,
+      "reportsTo": 600038
+    },
+    {
+      "empId": 7000118,
+      "reportsTo": 600030
+    },
+    {
+      "empId": 7000124,
+      "reportsTo": 600042
+    },
+    {
+      "empId": 7000127,
+      "reportsTo": 60006
+    },
+    {
+      "empId": 7000154,
+      "reportsTo": 600042
+    },
+    {
+      "empId": 80005,
+      "reportsTo": 7000119
+    },
+    {
+      "empId": 80008,
+      "reportsTo": 700057
+    },
+    {
+      "empId": 800014,
+      "reportsTo": 700099
+    },
+    {
+      "empId": 800024,
+      "reportsTo": 700015
+    },
+    {
+      "empId": 800025,
+      "reportsTo": 7000119
+    },
+    {
+      "empId": 800027,
+      "reportsTo": 7000149
+    },
+    {
+      "empId": 800030,
+      "reportsTo": 7000140
+    },
+    {
+      "empId": 800043,
+      "reportsTo": 700037
+    },
+    {
+      "empId": 800047,
+      "reportsTo": 700099
+    },
+    {
+      "empId": 800053,
+      "reportsTo": 700019
+    },
+    {
+      "empId": 800055,
+      "reportsTo": 7000147
+    },
+    {
+      "empId": 800060,
+      "reportsTo": 700028
+    },
+    {
+      "empId": 800079,
+      "reportsTo": 700013
+    },
+    {
+      "empId": 800081,
+      "reportsTo": 700089
+    },
+    {
+      "empId": 800083,
+      "reportsTo": 7000129
+    },
+    {
+      "empId": 800099,
+      "reportsTo": 700059
+    },
+    {
+      "empId": 8000110,
+      "reportsTo": 700019
+    },
+    {
+      "empId": 8000112,
+      "reportsTo": 700023
+    },
+    {
+      "empId": 8000133,
+      "reportsTo": 700099
+    },
+    {
+      "empId": 8000139,
+      "reportsTo": 700013
+    },
+    {
+      "empId": 8000140,
+      "reportsTo": 700096
+    },
+    {
+      "empId": 8000144,
+      "reportsTo": 7000110
+    },
+    {
+      "empId": 8000146,
+      "reportsTo": 7000129
+    },
+    {
+      "empId": 8000163,
+      "reportsTo": 7000131
+    },
+    {
+      "empId": 8000170,
+      "reportsTo": 7000122
+    },
+    {
+      "empId": 8000173,
+      "reportsTo": 7000129
+    },
+    {
+      "empId": 8000177,
+      "reportsTo": 700089
+    },
+    {
+      "empId": 8000186,
+      "reportsTo": 700028
+    },
+    {
+      "empId": 8000188,
+      "reportsTo": 700023
+    },
+    {
+      "empId": 8000191,
+      "reportsTo": 7000131
+    },
+    {
+      "empId": 8000195,
+      "reportsTo": 700057
+    },
+    {
+      "empId": 8000197,
+      "reportsTo": 7000119
+    },
+    {
+      "empId": 8000199,
+      "reportsTo": 700028
+    },
+    {
+      "empId": 8000212,
+      "reportsTo": 7000149
+    },
+    {
+      "empId": 8000217,
+      "reportsTo": 700059
+    },
+    {
+      "empId": 8000230,
+      "reportsTo": 7000140
+    },
+    {
+      "empId": 8000233,
+      "reportsTo": 7000149
+    },
+    {
+      "empId": 8000235,
+      "reportsTo": 700099
+    },
+    {
+      "empId": 8000237,
+      "reportsTo": 7000119
+    },
+    {
+      "empId": 8000258,
+      "reportsTo": 700050
+    },
+    {
+      "empId": 8000261,
+      "reportsTo": 70008
+    },
+    {
+      "empId": 8000287,
+      "reportsTo": 7000131
+    },
+    {
+      "empId": 8000288,
+      "reportsTo": 7000136
+    },
+    {
+      "empId": 8000299,
+      "reportsTo": 7000119
+    },
+    {
+      "empId": 8000302,
+      "reportsTo": 700059
+    },
+    {
+      "empId": 8000303,
+      "reportsTo": 700035
+    },
+    {
+      "empId": 8000309,
+      "reportsTo": 700023
+    },
+    {
+      "empId": 8000313,
+      "reportsTo": 70008
+    },
+    {
+      "empId": 8000365,
+      "reportsTo": 700037
+    },
+    {
+      "empId": 8000374,
+      "reportsTo": 700028
+    },
+    {
+      "empId": 8000384,
+      "reportsTo": 7000140
+    },
+    {
+      "empId": 8000386,
+      "reportsTo": 70008
+    },
+    {
+      "empId": 8000387,
+      "reportsTo": 700028
+    },
+    {
+      "empId": 8000388,
+      "reportsTo": 700050
+    },
+    {
+      "empId": 8000392,
+      "reportsTo": 700015
+    },
+    {
+      "empId": 8000401,
+      "reportsTo": 700015
+    },
+    {
+      "empId": 8000402,
+      "reportsTo": 7000129
+    },
+    {
+      "empId": 8000404,
+      "reportsTo": 7000129
+    },
+    {
+      "empId": 8000408,
+      "reportsTo": 7000110
+    },
+    {
+      "empId": 8000418,
+      "reportsTo": 700059
+    },
+    {
+      "empId": 8000429,
+      "reportsTo": 7000147
+    },
+    {
+      "empId": 8000430,
+      "reportsTo": 7000110
+    },
+    {
+      "empId": 8000448,
+      "reportsTo": 7000140
+    },
+    {
+      "empId": 8000449,
+      "reportsTo": 700023
+    },
+    {
+      "empId": 8000453,
+      "reportsTo": 700013
+    },
+    {
+      "empId": 8000466,
+      "reportsTo": 700026
+    },
+    {
+      "empId": 8000497,
+      "reportsTo": 700013
+    },
+    {
+      "empId": 80004,
+      "reportsTo": 700065
+    },
+    {
+      "empId": 800023,
+      "reportsTo": 700036
+    },
+    {
+      "empId": 800026,
+      "reportsTo": 700024
+    },
+    {
+      "empId": 800039,
+      "reportsTo": 7000112
+    },
+    {
+      "empId": 800044,
+      "reportsTo": 7000155
+    },
+    {
+      "empId": 800066,
+      "reportsTo": 700065
+    },
+    {
+      "empId": 800067,
+      "reportsTo": 7000138
+    },
+    {
+      "empId": 800073,
+      "reportsTo": 700034
+    },
+    {
+      "empId": 800082,
+      "reportsTo": 7000150
+    },
+    {
+      "empId": 8000101,
+      "reportsTo": 7000146
+    },
+    {
+      "empId": 8000116,
+      "reportsTo": 700062
+    },
+    {
+      "empId": 8000124,
+      "reportsTo": 700065
+    },
+    {
+      "empId": 8000125,
+      "reportsTo": 700011
+    },
+    {
+      "empId": 8000130,
+      "reportsTo": 70003
+    },
+    {
+      "empId": 8000131,
+      "reportsTo": 700024
+    },
+    {
+      "empId": 8000132,
+      "reportsTo": 700062
+    },
+    {
+      "empId": 8000137,
+      "reportsTo": 7000155
+    },
+    {
+      "empId": 8000150,
+      "reportsTo": 700011
+    },
+    {
+      "empId": 8000154,
+      "reportsTo": 7000155
+    },
+    {
+      "empId": 8000176,
+      "reportsTo": 7000155
+    },
+    {
+      "empId": 8000192,
+      "reportsTo": 70004
+    },
+    {
+      "empId": 8000196,
+      "reportsTo": 7000135
+    },
+    {
+      "empId": 8000202,
+      "reportsTo": 700034
+    },
+    {
+      "empId": 8000204,
+      "reportsTo": 700083
+    },
+    {
+      "empId": 8000218,
+      "reportsTo": 700011
+    },
+    {
+      "empId": 8000229,
+      "reportsTo": 70003
+    },
+    {
+      "empId": 8000239,
+      "reportsTo": 700090
+    },
+    {
+      "empId": 8000248,
+      "reportsTo": 700062
+    },
+    {
+      "empId": 8000262,
+      "reportsTo": 700024
+    },
+    {
+      "empId": 8000270,
+      "reportsTo": 700090
+    },
+    {
+      "empId": 8000271,
+      "reportsTo": 700011
+    },
+    {
+      "empId": 8000300,
+      "reportsTo": 700090
+    },
+    {
+      "empId": 8000311,
+      "reportsTo": 70009
+    },
+    {
+      "empId": 8000316,
+      "reportsTo": 700014
+    },
+    {
+      "empId": 8000321,
+      "reportsTo": 700058
+    },
+    {
+      "empId": 8000324,
+      "reportsTo": 700020
+    },
+    {
+      "empId": 8000331,
+      "reportsTo": 70003
+    },
+    {
+      "empId": 8000339,
+      "reportsTo": 700034
+    },
+    {
+      "empId": 8000350,
+      "reportsTo": 70004
+    },
+    {
+      "empId": 8000353,
+      "reportsTo": 700083
+    },
+    {
+      "empId": 8000367,
+      "reportsTo": 700018
+    },
+    {
+      "empId": 8000372,
+      "reportsTo": 700064
+    },
+    {
+      "empId": 8000377,
+      "reportsTo": 700083
+    },
+    {
+      "empId": 8000389,
+      "reportsTo": 700058
+    },
+    {
+      "empId": 8000394,
+      "reportsTo": 7000132
+    },
+    {
+      "empId": 8000399,
+      "reportsTo": 7000155
+    },
+    {
+      "empId": 8000406,
+      "reportsTo": 700036
+    },
+    {
+      "empId": 8000411,
+      "reportsTo": 70009
+    },
+    {
+      "empId": 8000416,
+      "reportsTo": 70003
+    },
+    {
+      "empId": 8000437,
+      "reportsTo": 700085
+    },
+    {
+      "empId": 8000444,
+      "reportsTo": 7000135
+    },
+    {
+      "empId": 8000450,
+      "reportsTo": 700034
+    },
+    {
+      "empId": 8000459,
+      "reportsTo": 700085
+    },
+    {
+      "empId": 8000460,
+      "reportsTo": 700087
+    },
+    {
+      "empId": 8000472,
+      "reportsTo": 700087
+    },
+    {
+      "empId": 8000481,
+      "reportsTo": 7000146
+    },
+    {
+      "empId": 8000490,
+      "reportsTo": 700085
+    },
+    {
+      "empId": 80000,
+      "reportsTo": 7000104
+    },
+    {
+      "empId": 800019,
+      "reportsTo": 7000121
+    },
+    {
+      "empId": 800028,
+      "reportsTo": 7000104
+    },
+    {
+      "empId": 800032,
+      "reportsTo": 7000113
+    },
+    {
+      "empId": 800041,
+      "reportsTo": 700025
+    },
+    {
+      "empId": 800061,
+      "reportsTo": 700063
+    },
+    {
+      "empId": 800068,
+      "reportsTo": 7000104
+    },
+    {
+      "empId": 800072,
+      "reportsTo": 7000148
+    },
+    {
+      "empId": 800086,
+      "reportsTo": 7000121
+    },
+    {
+      "empId": 800093,
+      "reportsTo": 7000148
+    },
+    {
+      "empId": 800097,
+      "reportsTo": 700060
+    },
+    {
+      "empId": 8000100,
+      "reportsTo": 7000113
+    },
+    {
+      "empId": 8000102,
+      "reportsTo": 7000113
+    },
+    {
+      "empId": 8000114,
+      "reportsTo": 700093
+    },
+    {
+      "empId": 8000121,
+      "reportsTo": 7000113
+    },
+    {
+      "empId": 8000123,
+      "reportsTo": 700025
+    },
+    {
+      "empId": 8000127,
+      "reportsTo": 700060
+    },
+    {
+      "empId": 8000136,
+      "reportsTo": 7000113
+    },
+    {
+      "empId": 8000138,
+      "reportsTo": 7000109
+    },
+    {
+      "empId": 8000143,
+      "reportsTo": 700043
+    },
+    {
+      "empId": 8000145,
+      "reportsTo": 700012
+    },
+    {
+      "empId": 8000174,
+      "reportsTo": 700025
+    },
+    {
+      "empId": 8000175,
+      "reportsTo": 700082
+    },
+    {
+      "empId": 8000185,
+      "reportsTo": 700025
+    },
+    {
+      "empId": 8000198,
+      "reportsTo": 7000109
+    },
+    {
+      "empId": 8000215,
+      "reportsTo": 700069
+    },
+    {
+      "empId": 8000216,
+      "reportsTo": 700043
+    },
+    {
+      "empId": 8000219,
+      "reportsTo": 700088
+    },
+    {
+      "empId": 8000224,
+      "reportsTo": 700025
+    },
+    {
+      "empId": 8000236,
+      "reportsTo": 700025
+    },
+    {
+      "empId": 8000242,
+      "reportsTo": 700088
+    },
+    {
+      "empId": 8000243,
+      "reportsTo": 700088
+    },
+    {
+      "empId": 8000245,
+      "reportsTo": 700029
+    },
+    {
+      "empId": 8000282,
+      "reportsTo": 700063
+    },
+    {
+      "empId": 8000286,
+      "reportsTo": 700063
+    },
+    {
+      "empId": 8000290,
+      "reportsTo": 700082
+    },
+    {
+      "empId": 8000291,
+      "reportsTo": 700093
+    },
+    {
+      "empId": 8000304,
+      "reportsTo": 700060
+    },
+    {
+      "empId": 8000312,
+      "reportsTo": 700043
+    },
+    {
+      "empId": 8000320,
+      "reportsTo": 700063
+    },
+    {
+      "empId": 8000322,
+      "reportsTo": 7000113
+    },
+    {
+      "empId": 8000323,
+      "reportsTo": 700060
+    },
+    {
+      "empId": 8000326,
+      "reportsTo": 7000121
+    },
+    {
+      "empId": 8000329,
+      "reportsTo": 700025
+    },
+    {
+      "empId": 8000346,
+      "reportsTo": 700069
+    },
+    {
+      "empId": 8000349,
+      "reportsTo": 700063
+    },
+    {
+      "empId": 8000378,
+      "reportsTo": 7000144
+    },
+    {
+      "empId": 8000379,
+      "reportsTo": 7000104
+    },
+    {
+      "empId": 8000380,
+      "reportsTo": 700029
+    },
+    {
+      "empId": 8000400,
+      "reportsTo": 700029
+    },
+    {
+      "empId": 8000405,
+      "reportsTo": 7000113
+    },
+    {
+      "empId": 8000410,
+      "reportsTo": 700093
+    },
+    {
+      "empId": 8000419,
+      "reportsTo": 700093
+    },
+    {
+      "empId": 8000420,
+      "reportsTo": 700082
+    },
+    {
+      "empId": 8000432,
+      "reportsTo": 700063
+    },
+    {
+      "empId": 8000439,
+      "reportsTo": 7000121
+    },
+    {
+      "empId": 8000454,
+      "reportsTo": 7000144
+    },
+    {
+      "empId": 8000461,
+      "reportsTo": 700043
+    },
+    {
+      "empId": 8000484,
+      "reportsTo": 700082
+    },
+    {
+      "empId": 8000485,
+      "reportsTo": 700088
+    },
+    {
+      "empId": 8000486,
+      "reportsTo": 700088
+    },
+    {
+      "empId": 8000496,
+      "reportsTo": 7000144
+    },
+    {
+      "empId": 80007,
+      "reportsTo": 70007
+    },
+    {
+      "empId": 800017,
+      "reportsTo": 700040
+    },
+    {
+      "empId": 800036,
+      "reportsTo": 700045
+    },
+    {
+      "empId": 800040,
+      "reportsTo": 7000106
+    },
+    {
+      "empId": 800049,
+      "reportsTo": 7000120
+    },
+    {
+      "empId": 800050,
+      "reportsTo": 7000106
+    },
+    {
+      "empId": 800064,
+      "reportsTo": 700086
+    },
+    {
+      "empId": 800085,
+      "reportsTo": 70001
+    },
+    {
+      "empId": 800090,
+      "reportsTo": 7000107
+    },
+    {
+      "empId": 800091,
+      "reportsTo": 700078
+    },
+    {
+      "empId": 800096,
+      "reportsTo": 7000106
+    },
+    {
+      "empId": 800098,
+      "reportsTo": 70007
+    },
+    {
+      "empId": 8000104,
+      "reportsTo": 700092
+    },
+    {
+      "empId": 8000109,
+      "reportsTo": 70005
+    },
+    {
+      "empId": 8000113,
+      "reportsTo": 70001
+    },
+    {
+      "empId": 8000115,
+      "reportsTo": 700071
+    },
+    {
+      "empId": 8000141,
+      "reportsTo": 700040
+    },
+    {
+      "empId": 8000151,
+      "reportsTo": 70007
+    },
+    {
+      "empId": 8000158,
+      "reportsTo": 700040
+    },
+    {
+      "empId": 8000183,
+      "reportsTo": 7000107
+    },
+    {
+      "empId": 8000206,
+      "reportsTo": 700068
+    },
+    {
+      "empId": 8000208,
+      "reportsTo": 70007
+    },
+    {
+      "empId": 8000209,
+      "reportsTo": 7000107
+    },
+    {
+      "empId": 8000211,
+      "reportsTo": 70007
+    },
+    {
+      "empId": 8000221,
+      "reportsTo": 70005
+    },
+    {
+      "empId": 8000222,
+      "reportsTo": 7000120
+    },
+    {
+      "empId": 8000257,
+      "reportsTo": 700068
+    },
+    {
+      "empId": 8000259,
+      "reportsTo": 7000100
+    },
+    {
+      "empId": 8000273,
+      "reportsTo": 70005
+    },
+    {
+      "empId": 8000281,
+      "reportsTo": 70007
+    },
+    {
+      "empId": 8000284,
+      "reportsTo": 700071
+    },
+    {
+      "empId": 8000289,
+      "reportsTo": 700078
+    },
+    {
+      "empId": 8000294,
+      "reportsTo": 7000120
+    },
+    {
+      "empId": 8000314,
+      "reportsTo": 70001
+    },
+    {
+      "empId": 8000325,
+      "reportsTo": 700092
+    },
+    {
+      "empId": 8000330,
+      "reportsTo": 700067
+    },
+    {
+      "empId": 8000333,
+      "reportsTo": 700040
+    },
+    {
+      "empId": 8000347,
+      "reportsTo": 7000156
+    },
+    {
+      "empId": 8000354,
+      "reportsTo": 7000100
+    },
+    {
+      "empId": 8000356,
+      "reportsTo": 7000120
+    },
+    {
+      "empId": 8000358,
+      "reportsTo": 700045
+    },
+    {
+      "empId": 8000363,
+      "reportsTo": 70007
+    },
+    {
+      "empId": 8000366,
+      "reportsTo": 7000106
+    },
+    {
+      "empId": 8000381,
+      "reportsTo": 700040
+    },
+    {
+      "empId": 8000395,
+      "reportsTo": 700071
+    },
+    {
+      "empId": 8000413,
+      "reportsTo": 700067
+    },
+    {
+      "empId": 8000423,
+      "reportsTo": 700016
+    },
+    {
+      "empId": 8000425,
+      "reportsTo": 70007
+    },
+    {
+      "empId": 8000438,
+      "reportsTo": 700078
+    },
+    {
+      "empId": 8000465,
+      "reportsTo": 700078
+    },
+    {
+      "empId": 8000469,
+      "reportsTo": 700016
+    },
+    {
+      "empId": 8000482,
+      "reportsTo": 700086
+    },
+    {
+      "empId": 8000483,
+      "reportsTo": 700078
+    },
+    {
+      "empId": 8000487,
+      "reportsTo": 7000156
+    },
+    {
+      "empId": 80002,
+      "reportsTo": 7000111
+    },
+    {
+      "empId": 80003,
+      "reportsTo": 700061
+    },
+    {
+      "empId": 800012,
+      "reportsTo": 700054
+    },
+    {
+      "empId": 800022,
+      "reportsTo": 700030
+    },
+    {
+      "empId": 800033,
+      "reportsTo": 700054
+    },
+    {
+      "empId": 800038,
+      "reportsTo": 700095
+    },
+    {
+      "empId": 800042,
+      "reportsTo": 700048
+    },
+    {
+      "empId": 800056,
+      "reportsTo": 7000101
+    },
+    {
+      "empId": 800059,
+      "reportsTo": 700095
+    },
+    {
+      "empId": 800062,
+      "reportsTo": 700048
+    },
+    {
+      "empId": 800074,
+      "reportsTo": 700046
+    },
+    {
+      "empId": 800077,
+      "reportsTo": 700061
+    },
+    {
+      "empId": 800080,
+      "reportsTo": 700095
+    },
+    {
+      "empId": 800084,
+      "reportsTo": 7000116
+    },
+    {
+      "empId": 800088,
+      "reportsTo": 700076
+    },
+    {
+      "empId": 800095,
+      "reportsTo": 700054
+    },
+    {
+      "empId": 8000111,
+      "reportsTo": 700076
+    },
+    {
+      "empId": 8000118,
+      "reportsTo": 7000123
+    },
+    {
+      "empId": 8000126,
+      "reportsTo": 700048
+    },
+    {
+      "empId": 8000128,
+      "reportsTo": 7000143
+    },
+    {
+      "empId": 8000142,
+      "reportsTo": 7000123
+    },
+    {
+      "empId": 8000159,
+      "reportsTo": 700030
+    },
+    {
+      "empId": 8000168,
+      "reportsTo": 700061
+    },
+    {
+      "empId": 8000178,
+      "reportsTo": 7000111
+    },
+    {
+      "empId": 8000194,
+      "reportsTo": 700095
+    },
+    {
+      "empId": 8000207,
+      "reportsTo": 7000101
+    },
+    {
+      "empId": 8000214,
+      "reportsTo": 700030
+    },
+    {
+      "empId": 8000227,
+      "reportsTo": 7000157
+    },
+    {
+      "empId": 8000234,
+      "reportsTo": 7000115
+    },
+    {
+      "empId": 8000240,
+      "reportsTo": 7000111
+    },
+    {
+      "empId": 8000246,
+      "reportsTo": 700053
+    },
+    {
+      "empId": 8000250,
+      "reportsTo": 7000111
+    },
+    {
+      "empId": 8000264,
+      "reportsTo": 700053
+    },
+    {
+      "empId": 8000265,
+      "reportsTo": 7000111
+    },
+    {
+      "empId": 8000269,
+      "reportsTo": 7000157
+    },
+    {
+      "empId": 8000277,
+      "reportsTo": 700095
+    },
+    {
+      "empId": 8000292,
+      "reportsTo": 700030
+    },
+    {
+      "empId": 8000293,
+      "reportsTo": 700091
+    },
+    {
+      "empId": 8000295,
+      "reportsTo": 700091
+    },
+    {
+      "empId": 8000296,
+      "reportsTo": 7000115
+    },
+    {
+      "empId": 8000297,
+      "reportsTo": 7000143
+    },
+    {
+      "empId": 8000298,
+      "reportsTo": 700054
+    },
+    {
+      "empId": 8000306,
+      "reportsTo": 700048
+    },
+    {
+      "empId": 8000307,
+      "reportsTo": 700048
+    },
+    {
+      "empId": 8000308,
+      "reportsTo": 700095
+    },
+    {
+      "empId": 8000317,
+      "reportsTo": 7000116
+    },
+    {
+      "empId": 8000332,
+      "reportsTo": 700098
+    },
+    {
+      "empId": 8000334,
+      "reportsTo": 700091
+    },
+    {
+      "empId": 8000338,
+      "reportsTo": 700098
+    },
+    {
+      "empId": 8000341,
+      "reportsTo": 7000141
+    },
+    {
+      "empId": 8000342,
+      "reportsTo": 7000123
+    },
+    {
+      "empId": 8000348,
+      "reportsTo": 7000111
+    },
+    {
+      "empId": 8000352,
+      "reportsTo": 7000108
+    },
+    {
+      "empId": 8000357,
+      "reportsTo": 7000143
+    },
+    {
+      "empId": 8000362,
+      "reportsTo": 700053
+    },
+    {
+      "empId": 8000373,
+      "reportsTo": 700095
+    },
+    {
+      "empId": 8000382,
+      "reportsTo": 7000157
+    },
+    {
+      "empId": 8000398,
+      "reportsTo": 700091
+    },
+    {
+      "empId": 8000415,
+      "reportsTo": 7000141
+    },
+    {
+      "empId": 8000417,
+      "reportsTo": 700053
+    },
+    {
+      "empId": 8000424,
+      "reportsTo": 7000115
+    },
+    {
+      "empId": 8000431,
+      "reportsTo": 7000157
+    },
+    {
+      "empId": 8000440,
+      "reportsTo": 700048
+    },
+    {
+      "empId": 8000455,
+      "reportsTo": 7000126
+    },
+    {
+      "empId": 8000456,
+      "reportsTo": 7000143
+    },
+    {
+      "empId": 8000457,
+      "reportsTo": 700076
+    },
+    {
+      "empId": 8000462,
+      "reportsTo": 700098
+    },
+    {
+      "empId": 8000468,
+      "reportsTo": 700061
+    },
+    {
+      "empId": 8000475,
+      "reportsTo": 7000101
+    },
+    {
+      "empId": 8000476,
+      "reportsTo": 700076
+    },
+    {
+      "empId": 8000492,
+      "reportsTo": 700091
+    },
+    {
+      "empId": 800010,
+      "reportsTo": 700066
+    },
+    {
+      "empId": 800011,
+      "reportsTo": 700032
+    },
+    {
+      "empId": 800013,
+      "reportsTo": 7000117
+    },
+    {
+      "empId": 800016,
+      "reportsTo": 7000153
+    },
+    {
+      "empId": 800020,
+      "reportsTo": 700032
+    },
+    {
+      "empId": 800034,
+      "reportsTo": 700049
+    },
+    {
+      "empId": 800045,
+      "reportsTo": 700097
+    },
+    {
+      "empId": 800057,
+      "reportsTo": 700079
+    },
+    {
+      "empId": 800058,
+      "reportsTo": 700032
+    },
+    {
+      "empId": 800076,
+      "reportsTo": 700017
+    },
+    {
+      "empId": 800078,
+      "reportsTo": 70000
+    },
+    {
+      "empId": 800094,
+      "reportsTo": 7000153
+    },
+    {
+      "empId": 8000105,
+      "reportsTo": 7000117
+    },
+    {
+      "empId": 8000107,
+      "reportsTo": 700032
+    },
+    {
+      "empId": 8000117,
+      "reportsTo": 700066
+    },
+    {
+      "empId": 8000119,
+      "reportsTo": 7000153
+    },
+    {
+      "empId": 8000120,
+      "reportsTo": 700094
+    },
+    {
+      "empId": 8000129,
+      "reportsTo": 7000117
+    },
+    {
+      "empId": 8000134,
+      "reportsTo": 700055
+    },
+    {
+      "empId": 8000149,
+      "reportsTo": 700049
+    },
+    {
+      "empId": 8000153,
+      "reportsTo": 7000134
+    },
+    {
+      "empId": 8000155,
+      "reportsTo": 7000134
+    },
+    {
+      "empId": 8000156,
+      "reportsTo": 700055
+    },
+    {
+      "empId": 8000160,
+      "reportsTo": 700017
+    },
+    {
+      "empId": 8000169,
+      "reportsTo": 700017
+    },
+    {
+      "empId": 8000172,
+      "reportsTo": 700075
+    },
+    {
+      "empId": 8000179,
+      "reportsTo": 700017
+    },
+    {
+      "empId": 8000180,
+      "reportsTo": 7000134
+    },
+    {
+      "empId": 8000187,
+      "reportsTo": 700051
+    },
+    {
+      "empId": 8000200,
+      "reportsTo": 70000
+    },
+    {
+      "empId": 8000203,
+      "reportsTo": 700080
+    },
+    {
+      "empId": 8000223,
+      "reportsTo": 70000
+    },
+    {
+      "empId": 8000228,
+      "reportsTo": 700097
+    },
+    {
+      "empId": 8000232,
+      "reportsTo": 7000134
+    },
+    {
+      "empId": 8000256,
+      "reportsTo": 7000128
+    },
+    {
+      "empId": 8000263,
+      "reportsTo": 700032
+    },
+    {
+      "empId": 8000274,
+      "reportsTo": 7000117
+    },
+    {
+      "empId": 8000279,
+      "reportsTo": 7000117
+    },
+    {
+      "empId": 8000285,
+      "reportsTo": 700094
+    },
+    {
+      "empId": 8000318,
+      "reportsTo": 7000117
+    },
+    {
+      "empId": 8000340,
+      "reportsTo": 70000
+    },
+    {
+      "empId": 8000343,
+      "reportsTo": 700049
+    },
+    {
+      "empId": 8000359,
+      "reportsTo": 7000130
+    },
+    {
+      "empId": 8000360,
+      "reportsTo": 7000130
+    },
+    {
+      "empId": 8000368,
+      "reportsTo": 700080
+    },
+    {
+      "empId": 8000371,
+      "reportsTo": 70000
+    },
+    {
+      "empId": 8000383,
+      "reportsTo": 7000134
+    },
+    {
+      "empId": 8000390,
+      "reportsTo": 700075
+    },
+    {
+      "empId": 8000397,
+      "reportsTo": 7000117
+    },
+    {
+      "empId": 8000407,
+      "reportsTo": 700080
+    },
+    {
+      "empId": 8000409,
+      "reportsTo": 700051
+    },
+    {
+      "empId": 8000412,
+      "reportsTo": 7000117
+    },
+    {
+      "empId": 8000414,
+      "reportsTo": 700079
+    },
+    {
+      "empId": 8000421,
+      "reportsTo": 700047
+    },
+    {
+      "empId": 8000435,
+      "reportsTo": 700066
+    },
+    {
+      "empId": 8000446,
+      "reportsTo": 7000153
+    },
+    {
+      "empId": 8000447,
+      "reportsTo": 700047
+    },
+    {
+      "empId": 8000452,
+      "reportsTo": 70000
+    },
+    {
+      "empId": 8000467,
+      "reportsTo": 7000153
+    },
+    {
+      "empId": 8000493,
+      "reportsTo": 70000
+    },
+    {
+      "empId": 8000495,
+      "reportsTo": 700055
+    },
+    {
+      "empId": 8000498,
+      "reportsTo": 700032
+    },
+    {
+      "empId": 8000499,
+      "reportsTo": 7000153
+    },
+    {
+      "empId": 80006,
+      "reportsTo": 7000151
+    },
+    {
+      "empId": 800018,
+      "reportsTo": 700073
+    },
+    {
+      "empId": 800021,
+      "reportsTo": 7000159
+    },
+    {
+      "empId": 800029,
+      "reportsTo": 7000114
+    },
+    {
+      "empId": 800031,
+      "reportsTo": 700073
+    },
+    {
+      "empId": 800037,
+      "reportsTo": 700081
+    },
+    {
+      "empId": 800046,
+      "reportsTo": 7000139
+    },
+    {
+      "empId": 800051,
+      "reportsTo": 700027
+    },
+    {
+      "empId": 800052,
+      "reportsTo": 700031
+    },
+    {
+      "empId": 800070,
+      "reportsTo": 70002
+    },
+    {
+      "empId": 800075,
+      "reportsTo": 7000151
+    },
+    {
+      "empId": 800087,
+      "reportsTo": 700042
+    },
+    {
+      "empId": 800089,
+      "reportsTo": 700027
+    },
+    {
+      "empId": 800092,
+      "reportsTo": 7000133
+    },
+    {
+      "empId": 8000106,
+      "reportsTo": 7000158
+    },
+    {
+      "empId": 8000122,
+      "reportsTo": 70002
+    },
+    {
+      "empId": 8000135,
+      "reportsTo": 7000137
+    },
+    {
+      "empId": 8000148,
+      "reportsTo": 7000151
+    },
+    {
+      "empId": 8000152,
+      "reportsTo": 7000105
+    },
+    {
+      "empId": 8000161,
+      "reportsTo": 7000152
+    },
+    {
+      "empId": 8000162,
+      "reportsTo": 7000139
+    },
+    {
+      "empId": 8000164,
+      "reportsTo": 7000133
+    },
+    {
+      "empId": 8000167,
+      "reportsTo": 7000151
+    },
+    {
+      "empId": 8000171,
+      "reportsTo": 700027
+    },
+    {
+      "empId": 8000182,
+      "reportsTo": 7000159
+    },
+    {
+      "empId": 8000184,
+      "reportsTo": 70002
+    },
+    {
+      "empId": 8000189,
+      "reportsTo": 7000152
+    },
+    {
+      "empId": 8000193,
+      "reportsTo": 7000145
+    },
+    {
+      "empId": 8000201,
+      "reportsTo": 700081
+    },
+    {
+      "empId": 8000210,
+      "reportsTo": 7000159
+    },
+    {
+      "empId": 8000226,
+      "reportsTo": 700056
+    },
+    {
+      "empId": 8000244,
+      "reportsTo": 700042
+    },
+    {
+      "empId": 8000249,
+      "reportsTo": 700031
+    },
+    {
+      "empId": 8000252,
+      "reportsTo": 700027
+    },
+    {
+      "empId": 8000267,
+      "reportsTo": 7000145
+    },
+    {
+      "empId": 8000272,
+      "reportsTo": 700073
+    },
+    {
+      "empId": 8000276,
+      "reportsTo": 7000152
+    },
+    {
+      "empId": 8000278,
+      "reportsTo": 700073
+    },
+    {
+      "empId": 8000310,
+      "reportsTo": 7000152
+    },
+    {
+      "empId": 8000328,
+      "reportsTo": 700021
+    },
+    {
+      "empId": 8000335,
+      "reportsTo": 700027
+    },
+    {
+      "empId": 8000336,
+      "reportsTo": 700031
+    },
+    {
+      "empId": 8000345,
+      "reportsTo": 7000105
+    },
+    {
+      "empId": 8000355,
+      "reportsTo": 7000142
+    },
+    {
+      "empId": 8000361,
+      "reportsTo": 70002
+    },
+    {
+      "empId": 8000376,
+      "reportsTo": 7000159
+    },
+    {
+      "empId": 8000391,
+      "reportsTo": 7000105
+    },
+    {
+      "empId": 8000393,
+      "reportsTo": 700031
+    },
+    {
+      "empId": 8000403,
+      "reportsTo": 7000152
+    },
+    {
+      "empId": 8000443,
+      "reportsTo": 700081
+    },
+    {
+      "empId": 8000445,
+      "reportsTo": 700042
+    },
+    {
+      "empId": 8000458,
+      "reportsTo": 7000133
+    },
+    {
+      "empId": 8000463,
+      "reportsTo": 700021
+    },
+    {
+      "empId": 8000471,
+      "reportsTo": 7000139
+    },
+    {
+      "empId": 8000473,
+      "reportsTo": 7000151
+    },
+    {
+      "empId": 8000477,
+      "reportsTo": 7000159
+    },
+    {
+      "empId": 8000488,
+      "reportsTo": 700031
+    },
+    {
+      "empId": 8000489,
+      "reportsTo": 7000151
+    },
+    {
+      "empId": 8000494,
+      "reportsTo": 7000137
+    },
+    {
+      "empId": 80001,
+      "reportsTo": 700038
+    },
+    {
+      "empId": 80009,
+      "reportsTo": 700044
+    },
+    {
+      "empId": 800015,
+      "reportsTo": 700022
+    },
+    {
+      "empId": 800035,
+      "reportsTo": 7000124
+    },
+    {
+      "empId": 800048,
+      "reportsTo": 7000124
+    },
+    {
+      "empId": 800054,
+      "reportsTo": 700039
+    },
+    {
+      "empId": 800063,
+      "reportsTo": 7000124
+    },
+    {
+      "empId": 800065,
+      "reportsTo": 7000154
+    },
+    {
+      "empId": 800069,
+      "reportsTo": 700077
+    },
+    {
+      "empId": 800071,
+      "reportsTo": 700010
+    },
+    {
+      "empId": 8000103,
+      "reportsTo": 700070
+    },
+    {
+      "empId": 8000108,
+      "reportsTo": 700038
+    },
+    {
+      "empId": 8000147,
+      "reportsTo": 700041
+    },
+    {
+      "empId": 8000157,
+      "reportsTo": 700070
+    },
+    {
+      "empId": 8000165,
+      "reportsTo": 7000124
+    },
+    {
+      "empId": 8000166,
+      "reportsTo": 700038
+    },
+    {
+      "empId": 8000181,
+      "reportsTo": 700038
+    },
+    {
+      "empId": 8000190,
+      "reportsTo": 7000127
+    },
+    {
+      "empId": 8000205,
+      "reportsTo": 700077
+    },
+    {
+      "empId": 8000213,
+      "reportsTo": 7000118
+    },
+    {
+      "empId": 8000220,
+      "reportsTo": 700044
+    },
+    {
+      "empId": 8000225,
+      "reportsTo": 700077
+    },
+    {
+      "empId": 8000231,
+      "reportsTo": 7000103
+    },
+    {
+      "empId": 8000238,
+      "reportsTo": 700052
+    },
+    {
+      "empId": 8000241,
+      "reportsTo": 7000118
+    },
+    {
+      "empId": 8000247,
+      "reportsTo": 700038
+    },
+    {
+      "empId": 8000251,
+      "reportsTo": 700038
+    },
+    {
+      "empId": 8000253,
+      "reportsTo": 700038
+    },
+    {
+      "empId": 8000254,
+      "reportsTo": 700041
+    },
+    {
+      "empId": 8000255,
+      "reportsTo": 700039
+    },
+    {
+      "empId": 8000260,
+      "reportsTo": 7000124
+    },
+    {
+      "empId": 8000266,
+      "reportsTo": 70006
+    },
+    {
+      "empId": 8000268,
+      "reportsTo": 7000103
+    },
+    {
+      "empId": 8000275,
+      "reportsTo": 700039
+    },
+    {
+      "empId": 8000280,
+      "reportsTo": 700052
+    },
+    {
+      "empId": 8000283,
+      "reportsTo": 70006
+    },
+    {
+      "empId": 8000301,
+      "reportsTo": 700070
+    },
+    {
+      "empId": 8000305,
+      "reportsTo": 700022
+    },
+    {
+      "empId": 8000315,
+      "reportsTo": 700022
+    },
+    {
+      "empId": 8000319,
+      "reportsTo": 700038
+    },
+    {
+      "empId": 8000327,
+      "reportsTo": 7000154
+    },
+    {
+      "empId": 8000337,
+      "reportsTo": 7000118
+    },
+    {
+      "empId": 8000344,
+      "reportsTo": 7000124
+    },
+    {
+      "empId": 8000351,
+      "reportsTo": 700077
+    },
+    {
+      "empId": 8000364,
+      "reportsTo": 700039
+    },
+    {
+      "empId": 8000369,
+      "reportsTo": 700038
+    },
+    {
+      "empId": 8000370,
+      "reportsTo": 700044
+    },
+    {
+      "empId": 8000375,
+      "reportsTo": 7000118
+    },
+    {
+      "empId": 8000385,
+      "reportsTo": 7000127
+    },
+    {
+      "empId": 8000396,
+      "reportsTo": 7000124
+    },
+    {
+      "empId": 8000422,
+      "reportsTo": 7000118
+    },
+    {
+      "empId": 8000426,
+      "reportsTo": 700039
+    },
+    {
+      "empId": 8000427,
+      "reportsTo": 700022
+    },
+    {
+      "empId": 8000428,
+      "reportsTo": 70006
+    },
+    {
+      "empId": 8000433,
+      "reportsTo": 700041
+    },
+    {
+      "empId": 8000434,
+      "reportsTo": 700070
+    },
+    {
+      "empId": 8000436,
+      "reportsTo": 700077
+    },
+    {
+      "empId": 8000441,
+      "reportsTo": 700077
+    },
+    {
+      "empId": 8000442,
+      "reportsTo": 7000118
+    },
+    {
+      "empId": 8000451,
+      "reportsTo": 700044
+    },
+    {
+      "empId": 8000464,
+      "reportsTo": 700041
+    },
+    {
+      "empId": 8000470,
+      "reportsTo": 700077
+    },
+    {
+      "empId": 8000474,
+      "reportsTo": 70006
+    },
+    {
+      "empId": 8000478,
+      "reportsTo": 700039
+    },
+    {
+      "empId": 8000479,
+      "reportsTo": 70006
+    },
+    {
+      "empId": 8000480,
+      "reportsTo": 700022
+    },
+    {
+      "empId": 8000491,
+      "reportsTo": 70006
+    },
+    {
+      "empId": 30000,
+      "reportsTo": 1232
+    },
+    {
+      "empId": 30001,
+      "reportsTo": 1231
+    },
+    {
+      "empId": 30002,
+      "reportsTo": 1231
+    },
+    {
+      "empId": 30003,
+      "reportsTo": 1232
+    },
+    {
+      "empId": 30004,
+      "reportsTo": 1231
+    },
+    {
+      "empId": 30005,
+      "reportsTo": 1231
+    },
+    {
+      "empId": 30006,
+      "reportsTo": 1232
+    },
+    {
+      "empId": 30007,
+      "reportsTo": 1231
+    },
+    {
+      "empId": 1231,
+      "reportsTo": "Company"
+    }
+  ]
+}
