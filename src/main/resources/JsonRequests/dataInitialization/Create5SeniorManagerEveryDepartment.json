@@ -1,0 +1,444 @@
+{
+  "employees": [
+    {
+      "name": "Duncan Harvey",
+      "empId": 50000,
+      "role": "SR_MANAGER",
+      "department": "HR",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 83892.5,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Patrice Mcguire",
+      "empId": 50001,
+      "role": "SR_MANAGER",
+      "department": "SECURITY",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 74064.3,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Leon Chavez",
+      "empId": 50002,
+      "role": "SR_MANAGER",
+      "department": "FINANCE",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 78557.21,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Haley Bauer",
+      "empId": 50003,
+      "role": "SR_MANAGER",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 62023.76,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Roth Wong",
+      "empId": 50004,
+      "role": "SR_MANAGER",
+      "department": "HR",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 79370.75,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Felecia Bennett",
+      "empId": 50005,
+      "role": "SR_MANAGER",
+      "department": "SALES",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 82378.04,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Geraldine Hebert",
+      "empId": 50006,
+      "role": "SR_MANAGER",
+      "department": "SALES",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 62311.08,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Dunlap Pratt",
+      "empId": 50007,
+      "role": "SR_MANAGER",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 68007.59,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Raymond Kerr",
+      "empId": 50008,
+      "role": "SR_MANAGER",
+      "department": "FINANCE",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 76445.69,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Lupe Harding",
+      "empId": 50009,
+      "role": "SR_MANAGER",
+      "department": "SECURITY",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 69712.8,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Eva Blair",
+      "empId": 500010,
+      "role": "SR_MANAGER",
+      "department": "LEGAL",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 75389.49,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Janice Rodgers",
+      "empId": 500011,
+      "role": "SR_MANAGER",
+      "department": "OFFICE_HANDLING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 77223.35,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Tami Castro",
+      "empId": 500012,
+      "role": "SR_MANAGER",
+      "department": "LEGAL",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 72915.51,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Clarice Moon",
+      "empId": 500013,
+      "role": "SR_MANAGER",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 69798.16,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Bailey Pruitt",
+      "empId": 500014,
+      "role": "SR_MANAGER",
+      "department": "OFFICE_HANDLING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 60275.34,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Jacobson Bradshaw",
+      "empId": 500015,
+      "role": "SR_MANAGER",
+      "department": "TECH",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 80057.84,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Sims Mullins",
+      "empId": 500016,
+      "role": "SR_MANAGER",
+      "department": "LEGAL",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 67070.13,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Katharine Rocha",
+      "empId": 500017,
+      "role": "SR_MANAGER",
+      "department": "TECH",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 75042.92,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Donovan Alvarez",
+      "empId": 500018,
+      "role": "SR_MANAGER",
+      "department": "SALES",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 62397.53,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Caitlin Mueller",
+      "empId": 500019,
+      "role": "SR_MANAGER",
+      "department": "SECURITY",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 77197.23,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Cheryl Knapp",
+      "empId": 500020,
+      "role": "SR_MANAGER",
+      "department": "SECURITY",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 84089.37,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Kelly Riley",
+      "empId": 500021,
+      "role": "SR_MANAGER",
+      "department": "OFFICE_HANDLING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 70059.04,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Juana Palmer",
+      "empId": 500022,
+      "role": "SR_MANAGER",
+      "department": "HR",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 60613.93,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Dodson Trujillo",
+      "empId": 500023,
+      "role": "SR_MANAGER",
+      "department": "SECURITY",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 79642.51,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Anne Burns",
+      "empId": 500024,
+      "role": "SR_MANAGER",
+      "department": "OFFICE_HANDLING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 61735.85,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Marcie Davenport",
+      "empId": 500025,
+      "role": "SR_MANAGER",
+      "department": "SALES",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 73007.23,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Rosanna Allen",
+      "empId": 500026,
+      "role": "SR_MANAGER",
+      "department": "FINANCE",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 66232.06,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Hazel Buckley",
+      "empId": 500027,
+      "role": "SR_MANAGER",
+      "department": "TECH",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 76708.38,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Kenya Elliott",
+      "empId": 500028,
+      "role": "SR_MANAGER",
+      "department": "FINANCE",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 65294.28,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Claire Roy",
+      "empId": 500029,
+      "role": "SR_MANAGER",
+      "department": "HR",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 65679.89,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Genevieve Wynn",
+      "empId": 500030,
+      "role": "SR_MANAGER",
+      "department": "HR",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 66158.7,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Meredith Lyons",
+      "empId": 500031,
+      "role": "SR_MANAGER",
+      "department": "HR",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 73806.47,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Isabel Nichols",
+      "empId": 500032,
+      "role": "SR_MANAGER",
+      "department": "OFFICE_HANDLING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 83661.68,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Mercer Mayer",
+      "empId": 500033,
+      "role": "SR_MANAGER",
+      "department": "LEGAL",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 77734.67,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Moss Graves",
+      "empId": 500034,
+      "role": "SR_MANAGER",
+      "department": "SALES",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 74537.78,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Heather Barber",
+      "empId": 500035,
+      "role": "SR_MANAGER",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 67925.8,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Tucker Mccullough",
+      "empId": 500036,
+      "role": "SR_MANAGER",
+      "department": "OFFICE_HANDLING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 62753.67,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Contreras Donaldson",
+      "empId": 500037,
+      "role": "SR_MANAGER",
+      "department": "HR",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 75686.14,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Tania Love",
+      "empId": 500038,
+      "role": "SR_MANAGER",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 62923.77,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Garza Shaw",
+      "empId": 500039,
+      "role": "SR_MANAGER",
+      "department": "TECH",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 74276.15,
+        "currency": "USD"
+      }
+    }
+  ]
+}

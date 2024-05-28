@@ -1,0 +1,26 @@
+{
+  "employees" : [
+    {
+      "name" : "ceo abc",
+      "empId": 1231,
+      "role" : "CEO",
+      "department": "COMPANYHEAD",
+      "reportsTo" : "Company",
+      "salary" : {
+        "salary" : 100000.000,
+        "currency" : "USD"
+      }
+    },
+    {
+      "name" : "cto abcd",
+      "empId": 1232,
+      "role" : "CTO",
+      "department": "COMPANYHEAD",
+      "reportsTo" : "1231",
+      "salary" : {
+        "salary" : 90000.000,
+        "currency" : "USD"
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Tonya Hendrix",
+    "empId": 30000,
+    "role": "VP",
+    "department": "TECH",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 93232.35,
+      "currency": "GBP"
+    }
+  },
+  {
+    "name": "Eleanor Wong",
+    "empId": 30001,
+    "role": "VP",
+    "department": "HR",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 89812.53,
+      "currency": "INR"
+    }
+  },
+  {
+    "name": "Whitley Douglas",
+    "empId": 30002,
+    "role": "VP",
+    "department": "FINANCE",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 96802.44,
+      "currency": "INR"
+    }
+  },
+  {
+    "name": "Maxine Hurst",
+    "empId": 30003,
+    "role": "VP",
+    "department": "MARKETING",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 91878.69,
+      "currency": "GBP"
+    }
+  },
+  {
+    "name": "Guzman Bell",
+    "empId": 30004,
+    "role": "VP",
+    "department": "SALES",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 80093.4,
+      "currency": "INR"
+    }
+  },
+  {
+    "name": "Dawson Shepherd",
+    "empId": 30005,
+    "role": "VP",
+    "department": "LEGAL",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 80752.39,
+      "currency": "GBP"
+    }
+  },
+  {
+    "name": "Rachael Mercado",
+    "empId": 30006,
+    "role": "VP",
+    "department": "SECURITY",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 82209.63,
+      "currency": "GBP"
+    }
+  },
+  {
+    "name": "Adeline Mays",
+    "empId": 30007,
+    "role": "VP",
+    "department": "OFFICE_HANDLING",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 93125.03,
+      "currency": "USD"
+    }
+  }
+]

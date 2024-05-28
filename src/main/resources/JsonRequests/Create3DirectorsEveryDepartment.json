@@ -1,0 +1,266 @@
+[
+  {
+    "name": "Shelton Holder",
+    "empId": 40000,
+    "role": "DIRECTOR",
+    "department": "SECURITY",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 71087.51,
+      "currency": "GBP"
+    }
+  },
+  {
+    "name": "Saundra Bradford",
+    "empId": 40001,
+    "role": "DIRECTOR",
+    "department": "MARKETING",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 61677.27,
+      "currency": "INR"
+    }
+  },
+  {
+    "name": "Fields Chen",
+    "empId": 40002,
+    "role": "DIRECTOR",
+    "department": "TECH",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 61487.48,
+      "currency": "GBP"
+    }
+  },
+  {
+    "name": "Krystal Strong",
+    "empId": 40003,
+    "role": "DIRECTOR",
+    "department": "HR",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 77580.95,
+      "currency": "INR"
+    }
+  },
+  {
+    "name": "Carissa Stewart",
+    "empId": 40004,
+    "role": "DIRECTOR",
+    "department": "MARKETING",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 77613.24,
+      "currency": "GBP"
+    }
+  },
+  {
+    "name": "Kidd Cain",
+    "empId": 40005,
+    "role": "DIRECTOR",
+    "department": "TECH",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 74160.86,
+      "currency": "INR"
+    }
+  },
+  {
+    "name": "Britt Stanley",
+    "empId": 40006,
+    "role": "DIRECTOR",
+    "department": "OFFICE_HANDLING",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 62390.63,
+      "currency": "USD"
+    }
+  },
+  {
+    "name": "Cherie King",
+    "empId": 40007,
+    "role": "DIRECTOR",
+    "department": "LEGAL",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 66806.22,
+      "currency": "GBP"
+    }
+  },
+  {
+    "name": "Michelle Santana",
+    "empId": 40008,
+    "role": "DIRECTOR",
+    "department": "SECURITY",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 83970.55,
+      "currency": "USD"
+    }
+  },
+  {
+    "name": "Patel Eaton",
+    "empId": 40009,
+    "role": "DIRECTOR",
+    "department": "TECH",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 72267.92,
+      "currency": "GBP"
+    }
+  },
+  {
+    "name": "Beck Alvarado",
+    "empId": 400010,
+    "role": "DIRECTOR",
+    "department": "LEGAL",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 79595.75,
+      "currency": "INR"
+    }
+  },
+  {
+    "name": "Ophelia Patel",
+    "empId": 400011,
+    "role": "DIRECTOR",
+    "department": "MARKETING",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 73723.47,
+      "currency": "GBP"
+    }
+  },
+  {
+    "name": "Connie Kramer",
+    "empId": 400012,
+    "role": "DIRECTOR",
+    "department": "OFFICE_HANDLING",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 81825.11,
+      "currency": "USD"
+    }
+  },
+  {
+    "name": "Gordon Mcdonald",
+    "empId": 400013,
+    "role": "DIRECTOR",
+    "department": "SALES",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 70749.84,
+      "currency": "USD"
+    }
+  },
+  {
+    "name": "Anita Bradshaw",
+    "empId": 400014,
+    "role": "DIRECTOR",
+    "department": "HR",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 82534.22,
+      "currency": "USD"
+    }
+  },
+  {
+    "name": "Georgia Cannon",
+    "empId": 400015,
+    "role": "DIRECTOR",
+    "department": "LEGAL",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 71580.02,
+      "currency": "GBP"
+    }
+  },
+  {
+    "name": "Glover Burt",
+    "empId": 400016,
+    "role": "DIRECTOR",
+    "department": "FINANCE",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 68777.91,
+      "currency": "GBP"
+    }
+  },
+  {
+    "name": "Steele Gordon",
+    "empId": 400017,
+    "role": "DIRECTOR",
+    "department": "SECURITY",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 67473.45,
+      "currency": "INR"
+    }
+  },
+  {
+    "name": "Holden Freeman",
+    "empId": 400018,
+    "role": "DIRECTOR",
+    "department": "SECURITY",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 80455.17,
+      "currency": "GBP"
+    }
+  },
+  {
+    "name": "Bentley Sandoval",
+    "empId": 400019,
+    "role": "DIRECTOR",
+    "department": "OFFICE_HANDLING",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 84937.6,
+      "currency": "INR"
+    }
+  },
+  {
+    "name": "Julie Warner",
+    "empId": 400020,
+    "role": "DIRECTOR",
+    "department": "LEGAL",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 66852.5,
+      "currency": "INR"
+    }
+  },
+  {
+    "name": "Wiley Moran",
+    "empId": 400021,
+    "role": "DIRECTOR",
+    "department": "FINANCE",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 67287.91,
+      "currency": "INR"
+    }
+  },
+  {
+    "name": "Luna Knapp",
+    "empId": 400022,
+    "role": "DIRECTOR",
+    "department": "FINANCE",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 81983.73,
+      "currency": "INR"
+    }
+  },
+  {
+    "name": "Iris Glass",
+    "empId": 400023,
+    "role": "DIRECTOR",
+    "department": "SECURITY",
+    "reportsTo" : "Company",
+    "salary": {
+      "salary": 71484.36,
+      "currency": "INR"
+    }
+  }
+]

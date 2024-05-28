@@ -1,0 +1,5504 @@
+{
+  "employees": [
+    {
+      "name": "Barlow Morales",
+      "empId": 80000,
+      "role": "EMPLOYEE",
+      "department": "LEGAL",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1081.76,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Becker Dotson",
+      "empId": 80001,
+      "role": "EMPLOYEE",
+      "department": "OFFICE_HANDLING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2131.79,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Kara Walter",
+      "empId": 80002,
+      "role": "EMPLOYEE",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1434.04,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Mueller Bray",
+      "empId": 80003,
+      "role": "EMPLOYEE",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3500.71,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Stout Lyons",
+      "empId": 80004,
+      "role": "EMPLOYEE",
+      "department": "FINANCE",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1386.59,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Autumn Schultz",
+      "empId": 80005,
+      "role": "EMPLOYEE",
+      "department": "TECH",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1582.05,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Corinne Mooney",
+      "empId": 80006,
+      "role": "EMPLOYEE",
+      "department": "SALES",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1517.94,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Justine Garner",
+      "empId": 80007,
+      "role": "EMPLOYEE",
+      "department": "SECURITY",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3241.94,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Jenny Velasquez",
+      "empId": 80008,
+      "role": "EMPLOYEE",
+      "department": "TECH",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3176.16,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Greene Gould",
+      "empId": 80009,
+      "role": "EMPLOYEE",
+      "department": "OFFICE_HANDLING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3592.17,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Bobbi Clark",
+      "empId": 800010,
+      "role": "EMPLOYEE",
+      "department": "HR",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1088.89,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Blanche Clayton",
+      "empId": 800011,
+      "role": "EMPLOYEE",
+      "department": "HR",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1744.77,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Baker Warren",
+      "empId": 800012,
+      "role": "EMPLOYEE",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1460.96,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Swanson Lee",
+      "empId": 800013,
+      "role": "EMPLOYEE",
+      "department": "HR",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2771.86,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Haley Bird",
+      "empId": 800014,
+      "role": "EMPLOYEE",
+      "department": "TECH",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3941.45,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Elva Payne",
+      "empId": 800015,
+      "role": "EMPLOYEE",
+      "department": "OFFICE_HANDLING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3782.9,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Santana Barber",
+      "empId": 800016,
+      "role": "EMPLOYEE",
+      "department": "HR",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2665.96,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Christy Pratt",
+      "empId": 800017,
+      "role": "EMPLOYEE",
+      "department": "SECURITY",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3481.26,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Bean Gray",
+      "empId": 800018,
+      "role": "EMPLOYEE",
+      "department": "SALES",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1082.23,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Garrett Robles",
+      "empId": 800019,
+      "role": "EMPLOYEE",
+      "department": "LEGAL",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3896.44,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Rebekah Cohen",
+      "empId": 800020,
+      "role": "EMPLOYEE",
+      "department": "HR",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1734.56,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Mari Campbell",
+      "empId": 800021,
+      "role": "EMPLOYEE",
+      "department": "SALES",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2173.42,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Terry Yang",
+      "empId": 800022,
+      "role": "EMPLOYEE",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2535.88,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Yates Bernard",
+      "empId": 800023,
+      "role": "EMPLOYEE",
+      "department": "FINANCE",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1965.85,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Flores Anthony",
+      "empId": 800024,
+      "role": "EMPLOYEE",
+      "department": "TECH",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1710.71,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Amelia Todd",
+      "empId": 800025,
+      "role": "EMPLOYEE",
+      "department": "TECH",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3276.47,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Suzanne Logan",
+      "empId": 800026,
+      "role": "EMPLOYEE",
+      "department": "FINANCE",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1530.2,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Dominguez Cook",
+      "empId": 800027,
+      "role": "EMPLOYEE",
+      "department": "TECH",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3617.45,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Moon Potts",
+      "empId": 800028,
+      "role": "EMPLOYEE",
+      "department": "LEGAL",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1830.84,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Juanita Mason",
+      "empId": 800029,
+      "role": "EMPLOYEE",
+      "department": "SALES",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2193.5,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Knox Cline",
+      "empId": 800030,
+      "role": "EMPLOYEE",
+      "department": "TECH",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1380.98,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Kimberly Weaver",
+      "empId": 800031,
+      "role": "EMPLOYEE",
+      "department": "SALES",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3588.84,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Butler Craft",
+      "empId": 800032,
+      "role": "EMPLOYEE",
+      "department": "LEGAL",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2263.48,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Concetta Wilson",
+      "empId": 800033,
+      "role": "EMPLOYEE",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2675.83,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Olsen Robertson",
+      "empId": 800034,
+      "role": "EMPLOYEE",
+      "department": "HR",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3630.78,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Simpson Norris",
+      "empId": 800035,
+      "role": "EMPLOYEE",
+      "department": "OFFICE_HANDLING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3859.92,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Haney Ratliff",
+      "empId": 800036,
+      "role": "EMPLOYEE",
+      "department": "SECURITY",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3038.11,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Head Finch",
+      "empId": 800037,
+      "role": "EMPLOYEE",
+      "department": "SALES",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3828.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Alexandria Richard",
+      "empId": 800038,
+      "role": "EMPLOYEE",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1031.56,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Mcclain Bates",
+      "empId": 800039,
+      "role": "EMPLOYEE",
+      "department": "FINANCE",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1538.15,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Nelson Foster",
+      "empId": 800040,
+      "role": "EMPLOYEE",
+      "department": "SECURITY",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2452.01,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Tammy Roach",
+      "empId": 800041,
+      "role": "EMPLOYEE",
+      "department": "LEGAL",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3927.29,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Logan Carlson",
+      "empId": 800042,
+      "role": "EMPLOYEE",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1650.77,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Edna Underwood",
+      "empId": 800043,
+      "role": "EMPLOYEE",
+      "department": "TECH",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3532.05,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Adela Booker",
+      "empId": 800044,
+      "role": "EMPLOYEE",
+      "department": "FINANCE",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1386.2,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Clarke Lowe",
+      "empId": 800045,
+      "role": "EMPLOYEE",
+      "department": "HR",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3047.42,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Leann Gates",
+      "empId": 800046,
+      "role": "EMPLOYEE",
+      "department": "SALES",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3412.89,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Vickie Matthews",
+      "empId": 800047,
+      "role": "EMPLOYEE",
+      "department": "TECH",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3258.28,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Vazquez Chavez",
+      "empId": 800048,
+      "role": "EMPLOYEE",
+      "department": "OFFICE_HANDLING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2422.3,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Webb Macias",
+      "empId": 800049,
+      "role": "EMPLOYEE",
+      "department": "SECURITY",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3369.61,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Deena Richmond",
+      "empId": 800050,
+      "role": "EMPLOYEE",
+      "department": "SECURITY",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1755.99,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Harmon Mcguire",
+      "empId": 800051,
+      "role": "EMPLOYEE",
+      "department": "SALES",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3872.87,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Rita Garrett",
+      "empId": 800052,
+      "role": "EMPLOYEE",
+      "department": "SALES",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3181.68,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Conway Gill",
+      "empId": 800053,
+      "role": "EMPLOYEE",
+      "department": "TECH",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1197.96,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Eva Hart",
+      "empId": 800054,
+      "role": "EMPLOYEE",
+      "department": "OFFICE_HANDLING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3607.38,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Doyle Whitaker",
+      "empId": 800055,
+      "role": "EMPLOYEE",
+      "department": "TECH",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1580.35,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Hays Sanders",
+      "empId": 800056,
+      "role": "EMPLOYEE",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1201.38,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Brianna Gilbert",
+      "empId": 800057,
+      "role": "EMPLOYEE",
+      "department": "HR",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3718.96,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Keri Carrillo",
+      "empId": 800058,
+      "role": "EMPLOYEE",
+      "department": "HR",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1322.79,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "West Dodson",
+      "empId": 800059,
+      "role": "EMPLOYEE",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3503.57,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Ophelia Reynolds",
+      "empId": 800060,
+      "role": "EMPLOYEE",
+      "department": "TECH",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3052.92,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Leanne Mccarty",
+      "empId": 800061,
+      "role": "EMPLOYEE",
+      "department": "LEGAL",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1260.56,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Powell Knight",
+      "empId": 800062,
+      "role": "EMPLOYEE",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1131.88,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Barbra Frye",
+      "empId": 800063,
+      "role": "EMPLOYEE",
+      "department": "OFFICE_HANDLING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1962.14,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Doreen Lott",
+      "empId": 800064,
+      "role": "EMPLOYEE",
+      "department": "SECURITY",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1162.55,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Rosemary Valencia",
+      "empId": 800065,
+      "role": "EMPLOYEE",
+      "department": "OFFICE_HANDLING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1107.72,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Rena Fuentes",
+      "empId": 800066,
+      "role": "EMPLOYEE",
+      "department": "FINANCE",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2700.16,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Johanna Rich",
+      "empId": 800067,
+      "role": "EMPLOYEE",
+      "department": "FINANCE",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1935.1,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Norris Sampson",
+      "empId": 800068,
+      "role": "EMPLOYEE",
+      "department": "LEGAL",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2584.75,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Galloway Hayden",
+      "empId": 800069,
+      "role": "EMPLOYEE",
+      "department": "OFFICE_HANDLING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2981.19,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Florence Moore",
+      "empId": 800070,
+      "role": "EMPLOYEE",
+      "department": "SALES",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2562.13,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Morgan Clay",
+      "empId": 800071,
+      "role": "EMPLOYEE",
+      "department": "OFFICE_HANDLING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3682.31,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Margo Flynn",
+      "empId": 800072,
+      "role": "EMPLOYEE",
+      "department": "LEGAL",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1641.77,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Guadalupe Beck",
+      "empId": 800073,
+      "role": "EMPLOYEE",
+      "department": "FINANCE",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3661,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Lavonne Johnson",
+      "empId": 800074,
+      "role": "EMPLOYEE",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3611.31,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Dorthy Franco",
+      "empId": 800075,
+      "role": "EMPLOYEE",
+      "department": "SALES",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2537.11,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Carter Rivas",
+      "empId": 800076,
+      "role": "EMPLOYEE",
+      "department": "HR",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2515.03,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Josefa Luna",
+      "empId": 800077,
+      "role": "EMPLOYEE",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2248.51,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Kristie Knapp",
+      "empId": 800078,
+      "role": "EMPLOYEE",
+      "department": "HR",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1258.18,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Tisha Calderon",
+      "empId": 800079,
+      "role": "EMPLOYEE",
+      "department": "TECH",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3405.73,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Contreras Wagner",
+      "empId": 800080,
+      "role": "EMPLOYEE",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1887.56,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Allyson Wise",
+      "empId": 800081,
+      "role": "EMPLOYEE",
+      "department": "TECH",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2942.44,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Michael Ruiz",
+      "empId": 800082,
+      "role": "EMPLOYEE",
+      "department": "FINANCE",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2788,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Sparks Sargent",
+      "empId": 800083,
+      "role": "EMPLOYEE",
+      "department": "TECH",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1975.46,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Blair Richardson",
+      "empId": 800084,
+      "role": "EMPLOYEE",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3791.73,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Miller Hyde",
+      "empId": 800085,
+      "role": "EMPLOYEE",
+      "department": "SECURITY",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2817.95,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Wright Mathis",
+      "empId": 800086,
+      "role": "EMPLOYEE",
+      "department": "LEGAL",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3426.18,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Phyllis Arnold",
+      "empId": 800087,
+      "role": "EMPLOYEE",
+      "department": "SALES",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3252.47,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Hatfield Becker",
+      "empId": 800088,
+      "role": "EMPLOYEE",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3907.68,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Mason Freeman",
+      "empId": 800089,
+      "role": "EMPLOYEE",
+      "department": "SALES",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3352.77,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Bonnie Barton",
+      "empId": 800090,
+      "role": "EMPLOYEE",
+      "department": "SECURITY",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1299.48,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Madelyn Cantu",
+      "empId": 800091,
+      "role": "EMPLOYEE",
+      "department": "SECURITY",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3377.87,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Neva Farley",
+      "empId": 800092,
+      "role": "EMPLOYEE",
+      "department": "SALES",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3886.82,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Foster Orr",
+      "empId": 800093,
+      "role": "EMPLOYEE",
+      "department": "LEGAL",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1608,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Deleon Gross",
+      "empId": 800094,
+      "role": "EMPLOYEE",
+      "department": "HR",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2570.17,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Alana Leach",
+      "empId": 800095,
+      "role": "EMPLOYEE",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2289.53,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Lelia Scott",
+      "empId": 800096,
+      "role": "EMPLOYEE",
+      "department": "SECURITY",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1009.92,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Chase Reed",
+      "empId": 800097,
+      "role": "EMPLOYEE",
+      "department": "LEGAL",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2453.79,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Lyons Keith",
+      "empId": 800098,
+      "role": "EMPLOYEE",
+      "department": "SECURITY",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2030.82,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Mable Higgins",
+      "empId": 800099,
+      "role": "EMPLOYEE",
+      "department": "TECH",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3379.93,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Carrie Conrad",
+      "empId": 8000100,
+      "role": "EMPLOYEE",
+      "department": "LEGAL",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2701.73,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Patrice Casey",
+      "empId": 8000101,
+      "role": "EMPLOYEE",
+      "department": "FINANCE",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3595.35,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Paulette Mcintosh",
+      "empId": 8000102,
+      "role": "EMPLOYEE",
+      "department": "LEGAL",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1393.58,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Benita Torres",
+      "empId": 8000103,
+      "role": "EMPLOYEE",
+      "department": "OFFICE_HANDLING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1806.89,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Middleton Miles",
+      "empId": 8000104,
+      "role": "EMPLOYEE",
+      "department": "SECURITY",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2868.07,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Vasquez Ferguson",
+      "empId": 8000105,
+      "role": "EMPLOYEE",
+      "department": "HR",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3332.16,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Alice Soto",
+      "empId": 8000106,
+      "role": "EMPLOYEE",
+      "department": "SALES",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1071.29,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Mosley Watson",
+      "empId": 8000107,
+      "role": "EMPLOYEE",
+      "department": "HR",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1503.7,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Glenna Calhoun",
+      "empId": 8000108,
+      "role": "EMPLOYEE",
+      "department": "OFFICE_HANDLING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1642.5,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Jean Serrano",
+      "empId": 8000109,
+      "role": "EMPLOYEE",
+      "department": "SECURITY",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3092.58,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Estrada Lawson",
+      "empId": 8000110,
+      "role": "EMPLOYEE",
+      "department": "TECH",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1812.49,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Wheeler Briggs",
+      "empId": 8000111,
+      "role": "EMPLOYEE",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3247.8,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "King Barlow",
+      "empId": 8000112,
+      "role": "EMPLOYEE",
+      "department": "TECH",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3475.76,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Mae Shaw",
+      "empId": 8000113,
+      "role": "EMPLOYEE",
+      "department": "SECURITY",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2563.69,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Dollie Horne",
+      "empId": 8000114,
+      "role": "EMPLOYEE",
+      "department": "LEGAL",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2171.32,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Madeline Trujillo",
+      "empId": 8000115,
+      "role": "EMPLOYEE",
+      "department": "SECURITY",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1611.15,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Marquez Cotton",
+      "empId": 8000116,
+      "role": "EMPLOYEE",
+      "department": "FINANCE",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2025.85,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Wise Small",
+      "empId": 8000117,
+      "role": "EMPLOYEE",
+      "department": "HR",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3126.42,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Heath Rowe",
+      "empId": 8000118,
+      "role": "EMPLOYEE",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3850.15,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Burt Wallace",
+      "empId": 8000119,
+      "role": "EMPLOYEE",
+      "department": "HR",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2768.74,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Yesenia Fields",
+      "empId": 8000120,
+      "role": "EMPLOYEE",
+      "department": "HR",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1173.51,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Oliver Michael",
+      "empId": 8000121,
+      "role": "EMPLOYEE",
+      "department": "LEGAL",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3491.64,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Vang Mcclain",
+      "empId": 8000122,
+      "role": "EMPLOYEE",
+      "department": "SALES",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2018.43,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Roberts Dunn",
+      "empId": 8000123,
+      "role": "EMPLOYEE",
+      "department": "LEGAL",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2392.68,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Whitaker Monroe",
+      "empId": 8000124,
+      "role": "EMPLOYEE",
+      "department": "FINANCE",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1273.18,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Tia Blackburn",
+      "empId": 8000125,
+      "role": "EMPLOYEE",
+      "department": "FINANCE",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3147.52,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Lorene Blevins",
+      "empId": 8000126,
+      "role": "EMPLOYEE",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2920.96,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Charity Greer",
+      "empId": 8000127,
+      "role": "EMPLOYEE",
+      "department": "LEGAL",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2152.31,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Marlene James",
+      "empId": 8000128,
+      "role": "EMPLOYEE",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1676.94,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Fern Fernandez",
+      "empId": 8000129,
+      "role": "EMPLOYEE",
+      "department": "HR",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2096.2,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Debora Wiley",
+      "empId": 8000130,
+      "role": "EMPLOYEE",
+      "department": "FINANCE",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3555.88,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Briana England",
+      "empId": 8000131,
+      "role": "EMPLOYEE",
+      "department": "FINANCE",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2257.2,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Rosario Preston",
+      "empId": 8000132,
+      "role": "EMPLOYEE",
+      "department": "FINANCE",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1443.65,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Cornelia Cervantes",
+      "empId": 8000133,
+      "role": "EMPLOYEE",
+      "department": "TECH",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3797.62,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Stacey Baxter",
+      "empId": 8000134,
+      "role": "EMPLOYEE",
+      "department": "HR",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3790.22,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Curry Weeks",
+      "empId": 8000135,
+      "role": "EMPLOYEE",
+      "department": "SALES",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2194.04,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Harper Talley",
+      "empId": 8000136,
+      "role": "EMPLOYEE",
+      "department": "LEGAL",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3243.01,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Adele Noble",
+      "empId": 8000137,
+      "role": "EMPLOYEE",
+      "department": "FINANCE",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2033.36,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Francine Owens",
+      "empId": 8000138,
+      "role": "EMPLOYEE",
+      "department": "LEGAL",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1753.83,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Martina Spence",
+      "empId": 8000139,
+      "role": "EMPLOYEE",
+      "department": "TECH",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3169.59,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Jannie Hughes",
+      "empId": 8000140,
+      "role": "EMPLOYEE",
+      "department": "TECH",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1777.78,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Church Banks",
+      "empId": 8000141,
+      "role": "EMPLOYEE",
+      "department": "SECURITY",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3007.87,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Ellis Wilder",
+      "empId": 8000142,
+      "role": "EMPLOYEE",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1432.7,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Aurora Lopez",
+      "empId": 8000143,
+      "role": "EMPLOYEE",
+      "department": "LEGAL",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1510.49,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Hopkins Barker",
+      "empId": 8000144,
+      "role": "EMPLOYEE",
+      "department": "TECH",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3482.14,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Romero Ferrell",
+      "empId": 8000145,
+      "role": "EMPLOYEE",
+      "department": "LEGAL",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2687.57,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Dena Kirkland",
+      "empId": 8000146,
+      "role": "EMPLOYEE",
+      "department": "TECH",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3601.51,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Fischer Hewitt",
+      "empId": 8000147,
+      "role": "EMPLOYEE",
+      "department": "OFFICE_HANDLING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2956.09,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Valeria Hensley",
+      "empId": 8000148,
+      "role": "EMPLOYEE",
+      "department": "SALES",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1422.84,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Bradford Shepard",
+      "empId": 8000149,
+      "role": "EMPLOYEE",
+      "department": "HR",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3218.6,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Faye Galloway",
+      "empId": 8000150,
+      "role": "EMPLOYEE",
+      "department": "FINANCE",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1184.03,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Rich Wells",
+      "empId": 8000151,
+      "role": "EMPLOYEE",
+      "department": "SECURITY",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1941.98,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Brandi Vang",
+      "empId": 8000152,
+      "role": "EMPLOYEE",
+      "department": "SALES",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3284.72,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Lynda Bailey",
+      "empId": 8000153,
+      "role": "EMPLOYEE",
+      "department": "HR",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3126.91,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Weiss Merrill",
+      "empId": 8000154,
+      "role": "EMPLOYEE",
+      "department": "FINANCE",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3773.84,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Denise Holden",
+      "empId": 8000155,
+      "role": "EMPLOYEE",
+      "department": "HR",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2964.82,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Marquita Goff",
+      "empId": 8000156,
+      "role": "EMPLOYEE",
+      "department": "HR",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3525.08,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Puckett Madden",
+      "empId": 8000157,
+      "role": "EMPLOYEE",
+      "department": "OFFICE_HANDLING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1624.28,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Michelle Sullivan",
+      "empId": 8000158,
+      "role": "EMPLOYEE",
+      "department": "SECURITY",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3068.7,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Diane Simon",
+      "empId": 8000159,
+      "role": "EMPLOYEE",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3855.2,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Mary Boyle",
+      "empId": 8000160,
+      "role": "EMPLOYEE",
+      "department": "HR",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2224.8,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Vaughn Zimmerman",
+      "empId": 8000161,
+      "role": "EMPLOYEE",
+      "department": "SALES",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1395.28,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Schultz Nichols",
+      "empId": 8000162,
+      "role": "EMPLOYEE",
+      "department": "SALES",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3496.55,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Munoz Vasquez",
+      "empId": 8000163,
+      "role": "EMPLOYEE",
+      "department": "TECH",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3457.62,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Vilma Guerrero",
+      "empId": 8000164,
+      "role": "EMPLOYEE",
+      "department": "SALES",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3133.8,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Edwards House",
+      "empId": 8000165,
+      "role": "EMPLOYEE",
+      "department": "OFFICE_HANDLING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1578.28,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Lynn Vaughn",
+      "empId": 8000166,
+      "role": "EMPLOYEE",
+      "department": "OFFICE_HANDLING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3013.01,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Browning Cabrera",
+      "empId": 8000167,
+      "role": "EMPLOYEE",
+      "department": "SALES",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2624.92,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Combs Hill",
+      "empId": 8000168,
+      "role": "EMPLOYEE",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1009.73,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Tucker Stephenson",
+      "empId": 8000169,
+      "role": "EMPLOYEE",
+      "department": "HR",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3469.48,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Donna Doyle",
+      "empId": 8000170,
+      "role": "EMPLOYEE",
+      "department": "TECH",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1090.56,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Veronica Beard",
+      "empId": 8000171,
+      "role": "EMPLOYEE",
+      "department": "SALES",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3883.54,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Rivers Mayer",
+      "empId": 8000172,
+      "role": "EMPLOYEE",
+      "department": "HR",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1659.66,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Sherry Miranda",
+      "empId": 8000173,
+      "role": "EMPLOYEE",
+      "department": "TECH",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3626.75,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Katie Boyd",
+      "empId": 8000174,
+      "role": "EMPLOYEE",
+      "department": "LEGAL",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3034.14,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Wagner Walters",
+      "empId": 8000175,
+      "role": "EMPLOYEE",
+      "department": "LEGAL",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3159.01,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Camille Silva",
+      "empId": 8000176,
+      "role": "EMPLOYEE",
+      "department": "FINANCE",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1723.79,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Baldwin Rice",
+      "empId": 8000177,
+      "role": "EMPLOYEE",
+      "department": "TECH",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2815.91,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Higgins Patton",
+      "empId": 8000178,
+      "role": "EMPLOYEE",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3650.53,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Travis Dyer",
+      "empId": 8000179,
+      "role": "EMPLOYEE",
+      "department": "HR",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1852.06,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Elliott Eaton",
+      "empId": 8000180,
+      "role": "EMPLOYEE",
+      "department": "HR",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1317.87,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Martha Dominguez",
+      "empId": 8000181,
+      "role": "EMPLOYEE",
+      "department": "OFFICE_HANDLING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2854.16,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Clements Parrish",
+      "empId": 8000182,
+      "role": "EMPLOYEE",
+      "department": "SALES",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1863.4,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Lola Trevino",
+      "empId": 8000183,
+      "role": "EMPLOYEE",
+      "department": "SECURITY",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2681.51,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Lena Waters",
+      "empId": 8000184,
+      "role": "EMPLOYEE",
+      "department": "SALES",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1218.5,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Margie Estes",
+      "empId": 8000185,
+      "role": "EMPLOYEE",
+      "department": "LEGAL",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1924.1,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "English Bolton",
+      "empId": 8000186,
+      "role": "EMPLOYEE",
+      "department": "TECH",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3577.15,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Karina Spears",
+      "empId": 8000187,
+      "role": "EMPLOYEE",
+      "department": "HR",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3745.4,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Herminia Keller",
+      "empId": 8000188,
+      "role": "EMPLOYEE",
+      "department": "TECH",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2855.47,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Alisa Mcgowan",
+      "empId": 8000189,
+      "role": "EMPLOYEE",
+      "department": "SALES",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2036.09,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Hall Graham",
+      "empId": 8000190,
+      "role": "EMPLOYEE",
+      "department": "OFFICE_HANDLING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2117.96,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Sheppard Hurst",
+      "empId": 8000191,
+      "role": "EMPLOYEE",
+      "department": "TECH",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2170.24,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Marissa Stevenson",
+      "empId": 8000192,
+      "role": "EMPLOYEE",
+      "department": "FINANCE",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1982.19,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Vega Morgan",
+      "empId": 8000193,
+      "role": "EMPLOYEE",
+      "department": "SALES",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3590.09,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Lina Powell",
+      "empId": 8000194,
+      "role": "EMPLOYEE",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3598.93,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Noreen Morris",
+      "empId": 8000195,
+      "role": "EMPLOYEE",
+      "department": "TECH",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3912.78,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Holder Lambert",
+      "empId": 8000196,
+      "role": "EMPLOYEE",
+      "department": "FINANCE",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3376.68,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Elsie Golden",
+      "empId": 8000197,
+      "role": "EMPLOYEE",
+      "department": "TECH",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1150.3,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Richards Conway",
+      "empId": 8000198,
+      "role": "EMPLOYEE",
+      "department": "LEGAL",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2896.37,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Howe Bonner",
+      "empId": 8000199,
+      "role": "EMPLOYEE",
+      "department": "TECH",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3089.1,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Landry Meyers",
+      "empId": 8000200,
+      "role": "EMPLOYEE",
+      "department": "HR",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1244.79,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Clay Copeland",
+      "empId": 8000201,
+      "role": "EMPLOYEE",
+      "department": "SALES",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2145.85,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Vargas Haley",
+      "empId": 8000202,
+      "role": "EMPLOYEE",
+      "department": "FINANCE",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1943.51,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Deana Reeves",
+      "empId": 8000203,
+      "role": "EMPLOYEE",
+      "department": "HR",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2629.18,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Fisher Leblanc",
+      "empId": 8000204,
+      "role": "EMPLOYEE",
+      "department": "FINANCE",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1166.07,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Helene Shields",
+      "empId": 8000205,
+      "role": "EMPLOYEE",
+      "department": "OFFICE_HANDLING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1028.94,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Richard Rasmussen",
+      "empId": 8000206,
+      "role": "EMPLOYEE",
+      "department": "SECURITY",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1469.56,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Judy Morrow",
+      "empId": 8000207,
+      "role": "EMPLOYEE",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2499.34,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Nettie Olsen",
+      "empId": 8000208,
+      "role": "EMPLOYEE",
+      "department": "SECURITY",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1374.57,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Michael Wilkinson",
+      "empId": 8000209,
+      "role": "EMPLOYEE",
+      "department": "SECURITY",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3406.7,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Kennedy Cortez",
+      "empId": 8000210,
+      "role": "EMPLOYEE",
+      "department": "SALES",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2572.84,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Huber Hubbard",
+      "empId": 8000211,
+      "role": "EMPLOYEE",
+      "department": "SECURITY",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3355.62,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Jensen Lewis",
+      "empId": 8000212,
+      "role": "EMPLOYEE",
+      "department": "TECH",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2121.49,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Ward Gentry",
+      "empId": 8000213,
+      "role": "EMPLOYEE",
+      "department": "OFFICE_HANDLING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3813.05,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Parrish Goodman",
+      "empId": 8000214,
+      "role": "EMPLOYEE",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1655.9,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Moreno Chan",
+      "empId": 8000215,
+      "role": "EMPLOYEE",
+      "department": "LEGAL",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3252.84,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Rochelle Ellison",
+      "empId": 8000216,
+      "role": "EMPLOYEE",
+      "department": "LEGAL",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3814.63,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Mcneil Roth",
+      "empId": 8000217,
+      "role": "EMPLOYEE",
+      "department": "TECH",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3609.69,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Jacquelyn Weiss",
+      "empId": 8000218,
+      "role": "EMPLOYEE",
+      "department": "FINANCE",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1821.01,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Elnora Fowler",
+      "empId": 8000219,
+      "role": "EMPLOYEE",
+      "department": "LEGAL",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2781.27,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Snider Lane",
+      "empId": 8000220,
+      "role": "EMPLOYEE",
+      "department": "OFFICE_HANDLING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2759.14,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Justice Sanchez",
+      "empId": 8000221,
+      "role": "EMPLOYEE",
+      "department": "SECURITY",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2459.15,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Lynne Wood",
+      "empId": 8000222,
+      "role": "EMPLOYEE",
+      "department": "SECURITY",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2322.56,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Antonia Jensen",
+      "empId": 8000223,
+      "role": "EMPLOYEE",
+      "department": "HR",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2637.12,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Sophia Whitley",
+      "empId": 8000224,
+      "role": "EMPLOYEE",
+      "department": "LEGAL",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2208.36,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Baxter Castillo",
+      "empId": 8000225,
+      "role": "EMPLOYEE",
+      "department": "OFFICE_HANDLING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2735.03,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Santiago Landry",
+      "empId": 8000226,
+      "role": "EMPLOYEE",
+      "department": "SALES",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1629.73,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Mccormick Ashley",
+      "empId": 8000227,
+      "role": "EMPLOYEE",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1595.08,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Bell May",
+      "empId": 8000228,
+      "role": "EMPLOYEE",
+      "department": "HR",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1396.63,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Berta Lester",
+      "empId": 8000229,
+      "role": "EMPLOYEE",
+      "department": "FINANCE",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2772.02,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Stewart Blake",
+      "empId": 8000230,
+      "role": "EMPLOYEE",
+      "department": "TECH",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1661.38,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Sosa Baker",
+      "empId": 8000231,
+      "role": "EMPLOYEE",
+      "department": "OFFICE_HANDLING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3361.13,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Robin Neal",
+      "empId": 8000232,
+      "role": "EMPLOYEE",
+      "department": "HR",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2662.93,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Thornton Duke",
+      "empId": 8000233,
+      "role": "EMPLOYEE",
+      "department": "TECH",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2894.57,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Krista Odonnell",
+      "empId": 8000234,
+      "role": "EMPLOYEE",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1927.73,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Dennis Pollard",
+      "empId": 8000235,
+      "role": "EMPLOYEE",
+      "department": "TECH",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1737.75,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Sweet Rosa",
+      "empId": 8000236,
+      "role": "EMPLOYEE",
+      "department": "LEGAL",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1663.13,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Sophie Walls",
+      "empId": 8000237,
+      "role": "EMPLOYEE",
+      "department": "TECH",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1493.01,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Grimes Fulton",
+      "empId": 8000238,
+      "role": "EMPLOYEE",
+      "department": "OFFICE_HANDLING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1662.55,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Jenifer Walton",
+      "empId": 8000239,
+      "role": "EMPLOYEE",
+      "department": "FINANCE",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3619.35,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Marjorie Butler",
+      "empId": 8000240,
+      "role": "EMPLOYEE",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2635.68,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Conley Paul",
+      "empId": 8000241,
+      "role": "EMPLOYEE",
+      "department": "OFFICE_HANDLING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1092.4,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Becky Bennett",
+      "empId": 8000242,
+      "role": "EMPLOYEE",
+      "department": "LEGAL",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3693.54,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Betty Alston",
+      "empId": 8000243,
+      "role": "EMPLOYEE",
+      "department": "LEGAL",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1356.92,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Goodman Riggs",
+      "empId": 8000244,
+      "role": "EMPLOYEE",
+      "department": "SALES",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1161.4,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Solis Gregory",
+      "empId": 8000245,
+      "role": "EMPLOYEE",
+      "department": "LEGAL",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3453.76,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Kerr Hays",
+      "empId": 8000246,
+      "role": "EMPLOYEE",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2691.95,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Martin Burks",
+      "empId": 8000247,
+      "role": "EMPLOYEE",
+      "department": "OFFICE_HANDLING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2237.39,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Kerry Holcomb",
+      "empId": 8000248,
+      "role": "EMPLOYEE",
+      "department": "FINANCE",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1491.65,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Harrison Nguyen",
+      "empId": 8000249,
+      "role": "EMPLOYEE",
+      "department": "SALES",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3163.82,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Tammi Flowers",
+      "empId": 8000250,
+      "role": "EMPLOYEE",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1631.26,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Figueroa Crane",
+      "empId": 8000251,
+      "role": "EMPLOYEE",
+      "department": "OFFICE_HANDLING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2557.91,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Tamara Mckee",
+      "empId": 8000252,
+      "role": "EMPLOYEE",
+      "department": "SALES",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1652.9,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Hurley Kim",
+      "empId": 8000253,
+      "role": "EMPLOYEE",
+      "department": "OFFICE_HANDLING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3418.85,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Bessie Burton",
+      "empId": 8000254,
+      "role": "EMPLOYEE",
+      "department": "OFFICE_HANDLING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3540.86,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Pena Kidd",
+      "empId": 8000255,
+      "role": "EMPLOYEE",
+      "department": "OFFICE_HANDLING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3607.7,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Boyer Benjamin",
+      "empId": 8000256,
+      "role": "EMPLOYEE",
+      "department": "HR",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3006.01,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Annabelle Vaughan",
+      "empId": 8000257,
+      "role": "EMPLOYEE",
+      "department": "SECURITY",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3686.84,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Meredith Pickett",
+      "empId": 8000258,
+      "role": "EMPLOYEE",
+      "department": "TECH",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1480.04,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Barnett Murphy",
+      "empId": 8000259,
+      "role": "EMPLOYEE",
+      "department": "SECURITY",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3941.7,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Shari Frost",
+      "empId": 8000260,
+      "role": "EMPLOYEE",
+      "department": "OFFICE_HANDLING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3195.39,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Morales Compton",
+      "empId": 8000261,
+      "role": "EMPLOYEE",
+      "department": "TECH",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3329.63,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Salinas Pacheco",
+      "empId": 8000262,
+      "role": "EMPLOYEE",
+      "department": "FINANCE",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1739.27,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Lawanda Foreman",
+      "empId": 8000263,
+      "role": "EMPLOYEE",
+      "department": "HR",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3715.26,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Jeanette Petty",
+      "empId": 8000264,
+      "role": "EMPLOYEE",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1235.79,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Gay Garza",
+      "empId": 8000265,
+      "role": "EMPLOYEE",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1574.82,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Hurst Hall",
+      "empId": 8000266,
+      "role": "EMPLOYEE",
+      "department": "OFFICE_HANDLING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2108.38,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Jillian Joyce",
+      "empId": 8000267,
+      "role": "EMPLOYEE",
+      "department": "SALES",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2642.01,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Aurelia Rose",
+      "empId": 8000268,
+      "role": "EMPLOYEE",
+      "department": "OFFICE_HANDLING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3812.91,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Marsh West",
+      "empId": 8000269,
+      "role": "EMPLOYEE",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1727.23,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Cline Gibson",
+      "empId": 8000270,
+      "role": "EMPLOYEE",
+      "department": "FINANCE",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2748.38,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Tamra Carr",
+      "empId": 8000271,
+      "role": "EMPLOYEE",
+      "department": "FINANCE",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1998.35,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Copeland Webster",
+      "empId": 8000272,
+      "role": "EMPLOYEE",
+      "department": "SALES",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1253.59,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Mcgowan Fischer",
+      "empId": 8000273,
+      "role": "EMPLOYEE",
+      "department": "SECURITY",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2034.63,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Evangelina Navarro",
+      "empId": 8000274,
+      "role": "EMPLOYEE",
+      "department": "HR",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2518.38,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Kari Nicholson",
+      "empId": 8000275,
+      "role": "EMPLOYEE",
+      "department": "OFFICE_HANDLING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3487.25,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Laura Burt",
+      "empId": 8000276,
+      "role": "EMPLOYEE",
+      "department": "SALES",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3473.06,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Miranda Austin",
+      "empId": 8000277,
+      "role": "EMPLOYEE",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2717.31,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Grace Patel",
+      "empId": 8000278,
+      "role": "EMPLOYEE",
+      "department": "SALES",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1772.45,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Morrow Gilliam",
+      "empId": 8000279,
+      "role": "EMPLOYEE",
+      "department": "HR",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3295.06,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Jenna Mclean",
+      "empId": 8000280,
+      "role": "EMPLOYEE",
+      "department": "OFFICE_HANDLING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2059.08,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Rollins Skinner",
+      "empId": 8000281,
+      "role": "EMPLOYEE",
+      "department": "SECURITY",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1183.08,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Coleman Odom",
+      "empId": 8000282,
+      "role": "EMPLOYEE",
+      "department": "LEGAL",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1895.03,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Thomas Haney",
+      "empId": 8000283,
+      "role": "EMPLOYEE",
+      "department": "OFFICE_HANDLING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1432.5,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Shawna Acevedo",
+      "empId": 8000284,
+      "role": "EMPLOYEE",
+      "department": "SECURITY",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3409.66,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Brady Francis",
+      "empId": 8000285,
+      "role": "EMPLOYEE",
+      "department": "HR",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1211.61,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Hammond Ayers",
+      "empId": 8000286,
+      "role": "EMPLOYEE",
+      "department": "LEGAL",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1195.79,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Magdalena Velez",
+      "empId": 8000287,
+      "role": "EMPLOYEE",
+      "department": "TECH",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3950.56,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Juliet Morton",
+      "empId": 8000288,
+      "role": "EMPLOYEE",
+      "department": "TECH",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3631.17,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Ruiz Mendez",
+      "empId": 8000289,
+      "role": "EMPLOYEE",
+      "department": "SECURITY",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1847.58,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Jordan Pennington",
+      "empId": 8000290,
+      "role": "EMPLOYEE",
+      "department": "LEGAL",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1622.57,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Felecia Molina",
+      "empId": 8000291,
+      "role": "EMPLOYEE",
+      "department": "LEGAL",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1789.2,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Madeleine Carter",
+      "empId": 8000292,
+      "role": "EMPLOYEE",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2991.24,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Wade Hodges",
+      "empId": 8000293,
+      "role": "EMPLOYEE",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1634.36,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Fuentes Sims",
+      "empId": 8000294,
+      "role": "EMPLOYEE",
+      "department": "SECURITY",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3888.01,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Christensen Velazquez",
+      "empId": 8000295,
+      "role": "EMPLOYEE",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2193.07,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Abbott Cleveland",
+      "empId": 8000296,
+      "role": "EMPLOYEE",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3432.05,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Rivas Lynn",
+      "empId": 8000297,
+      "role": "EMPLOYEE",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3442.2,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Lynette Nelson",
+      "empId": 8000298,
+      "role": "EMPLOYEE",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2473.9,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Barry Rodriguez",
+      "empId": 8000299,
+      "role": "EMPLOYEE",
+      "department": "TECH",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2624,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Hardin Smith",
+      "empId": 8000300,
+      "role": "EMPLOYEE",
+      "department": "FINANCE",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3595.08,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Stokes Fitzpatrick",
+      "empId": 8000301,
+      "role": "EMPLOYEE",
+      "department": "OFFICE_HANDLING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1453.6,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Lara Jacobs",
+      "empId": 8000302,
+      "role": "EMPLOYEE",
+      "department": "TECH",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2525.09,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Lakeisha Oliver",
+      "empId": 8000303,
+      "role": "EMPLOYEE",
+      "department": "TECH",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2282.93,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Hopper Sweeney",
+      "empId": 8000304,
+      "role": "EMPLOYEE",
+      "department": "LEGAL",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2746.64,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Barrett Guzman",
+      "empId": 8000305,
+      "role": "EMPLOYEE",
+      "department": "OFFICE_HANDLING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1693.89,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Minerva Bryan",
+      "empId": 8000306,
+      "role": "EMPLOYEE",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3403.35,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Rose Maddox",
+      "empId": 8000307,
+      "role": "EMPLOYEE",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2828.97,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Marks White",
+      "empId": 8000308,
+      "role": "EMPLOYEE",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1919.46,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Reeves Justice",
+      "empId": 8000309,
+      "role": "EMPLOYEE",
+      "department": "TECH",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1640.5,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Goff Pope",
+      "empId": 8000310,
+      "role": "EMPLOYEE",
+      "department": "SALES",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3438.5,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Austin Hunter",
+      "empId": 8000311,
+      "role": "EMPLOYEE",
+      "department": "FINANCE",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3836.92,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Stacie Tyson",
+      "empId": 8000312,
+      "role": "EMPLOYEE",
+      "department": "LEGAL",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1141.96,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Barker Ortiz",
+      "empId": 8000313,
+      "role": "EMPLOYEE",
+      "department": "TECH",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3211.58,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Bridgette Buckley",
+      "empId": 8000314,
+      "role": "EMPLOYEE",
+      "department": "SECURITY",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1377.99,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Casey Shelton",
+      "empId": 8000315,
+      "role": "EMPLOYEE",
+      "department": "OFFICE_HANDLING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2630.12,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Oneill Fuller",
+      "empId": 8000316,
+      "role": "EMPLOYEE",
+      "department": "FINANCE",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3314.18,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Margery Davis",
+      "empId": 8000317,
+      "role": "EMPLOYEE",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1445.22,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Humphrey Fisher",
+      "empId": 8000318,
+      "role": "EMPLOYEE",
+      "department": "HR",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1839.51,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Holt Mendoza",
+      "empId": 8000319,
+      "role": "EMPLOYEE",
+      "department": "OFFICE_HANDLING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1113.11,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Cooley Blankenship",
+      "empId": 8000320,
+      "role": "EMPLOYEE",
+      "department": "LEGAL",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1594.77,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Kirby Castaneda",
+      "empId": 8000321,
+      "role": "EMPLOYEE",
+      "department": "FINANCE",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3714.44,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Gilda Richards",
+      "empId": 8000322,
+      "role": "EMPLOYEE",
+      "department": "LEGAL",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1571.9,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Viola Roberson",
+      "empId": 8000323,
+      "role": "EMPLOYEE",
+      "department": "LEGAL",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3289.76,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Rosemarie Bentley",
+      "empId": 8000324,
+      "role": "EMPLOYEE",
+      "department": "FINANCE",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1469.25,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Elma Mcneil",
+      "empId": 8000325,
+      "role": "EMPLOYEE",
+      "department": "SECURITY",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3435.84,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Leon Jackson",
+      "empId": 8000326,
+      "role": "EMPLOYEE",
+      "department": "LEGAL",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1943.76,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Fay Bradley",
+      "empId": 8000327,
+      "role": "EMPLOYEE",
+      "department": "OFFICE_HANDLING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1251.89,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Mildred Clarke",
+      "empId": 8000328,
+      "role": "EMPLOYEE",
+      "department": "SALES",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2764.22,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Mollie Mcleod",
+      "empId": 8000329,
+      "role": "EMPLOYEE",
+      "department": "LEGAL",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3330.55,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Blanchard Ramsey",
+      "empId": 8000330,
+      "role": "EMPLOYEE",
+      "department": "SECURITY",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1292,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Sonia Cameron",
+      "empId": 8000331,
+      "role": "EMPLOYEE",
+      "department": "FINANCE",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2100.06,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Ava Montgomery",
+      "empId": 8000332,
+      "role": "EMPLOYEE",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3228.82,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Janine Armstrong",
+      "empId": 8000333,
+      "role": "EMPLOYEE",
+      "department": "SECURITY",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3070.43,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Harding Delacruz",
+      "empId": 8000334,
+      "role": "EMPLOYEE",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3970.46,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Townsend Wiggins",
+      "empId": 8000335,
+      "role": "EMPLOYEE",
+      "department": "SALES",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2813.46,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Sandra Clements",
+      "empId": 8000336,
+      "role": "EMPLOYEE",
+      "department": "SALES",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3667.19,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Sims Deleon",
+      "empId": 8000337,
+      "role": "EMPLOYEE",
+      "department": "OFFICE_HANDLING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1349.44,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Linda Rogers",
+      "empId": 8000338,
+      "role": "EMPLOYEE",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1792.61,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Hyde Hatfield",
+      "empId": 8000339,
+      "role": "EMPLOYEE",
+      "department": "FINANCE",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2020.43,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Shaffer Campos",
+      "empId": 8000340,
+      "role": "EMPLOYEE",
+      "department": "HR",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3496.76,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Newman Simpson",
+      "empId": 8000341,
+      "role": "EMPLOYEE",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2425.94,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Mclean Morse",
+      "empId": 8000342,
+      "role": "EMPLOYEE",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2714.65,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Caroline Barnes",
+      "empId": 8000343,
+      "role": "EMPLOYEE",
+      "department": "HR",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2762.81,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Anastasia Hicks",
+      "empId": 8000344,
+      "role": "EMPLOYEE",
+      "department": "OFFICE_HANDLING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1366.84,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Polly Gaines",
+      "empId": 8000345,
+      "role": "EMPLOYEE",
+      "department": "SALES",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3923.5,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Bartlett Puckett",
+      "empId": 8000346,
+      "role": "EMPLOYEE",
+      "department": "LEGAL",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3637.85,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Obrien Bishop",
+      "empId": 8000347,
+      "role": "EMPLOYEE",
+      "department": "SECURITY",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3888.27,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Beth Clemons",
+      "empId": 8000348,
+      "role": "EMPLOYEE",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2938.8,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Jacklyn Case",
+      "empId": 8000349,
+      "role": "EMPLOYEE",
+      "department": "LEGAL",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2235.54,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Maura Rhodes",
+      "empId": 8000350,
+      "role": "EMPLOYEE",
+      "department": "FINANCE",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1999.96,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Vinson Mosley",
+      "empId": 8000351,
+      "role": "EMPLOYEE",
+      "department": "OFFICE_HANDLING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3603.54,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Hudson Atkinson",
+      "empId": 8000352,
+      "role": "EMPLOYEE",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1291.49,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Summer Andrews",
+      "empId": 8000353,
+      "role": "EMPLOYEE",
+      "department": "FINANCE",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3784.25,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Julia Frazier",
+      "empId": 8000354,
+      "role": "EMPLOYEE",
+      "department": "SECURITY",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2189.02,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Parker George",
+      "empId": 8000355,
+      "role": "EMPLOYEE",
+      "department": "SALES",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2254.8,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Josefina Maynard",
+      "empId": 8000356,
+      "role": "EMPLOYEE",
+      "department": "SECURITY",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1292.89,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Compton Carney",
+      "empId": 8000357,
+      "role": "EMPLOYEE",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3939.38,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "David Harrell",
+      "empId": 8000358,
+      "role": "EMPLOYEE",
+      "department": "SECURITY",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3514.21,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Mercado Heath",
+      "empId": 8000359,
+      "role": "EMPLOYEE",
+      "department": "HR",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3456.9,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Lindsay Woodard",
+      "empId": 8000360,
+      "role": "EMPLOYEE",
+      "department": "HR",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2062.71,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Misty Perkins",
+      "empId": 8000361,
+      "role": "EMPLOYEE",
+      "department": "SALES",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3497.09,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Orr Valenzuela",
+      "empId": 8000362,
+      "role": "EMPLOYEE",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2134.14,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Ladonna Rush",
+      "empId": 8000363,
+      "role": "EMPLOYEE",
+      "department": "SECURITY",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2948.2,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Caitlin Gay",
+      "empId": 8000364,
+      "role": "EMPLOYEE",
+      "department": "OFFICE_HANDLING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2697.37,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Lupe Joseph",
+      "empId": 8000365,
+      "role": "EMPLOYEE",
+      "department": "TECH",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1272.52,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Susie Gilmore",
+      "empId": 8000366,
+      "role": "EMPLOYEE",
+      "department": "SECURITY",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2038.98,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Donovan Gonzalez",
+      "empId": 8000367,
+      "role": "EMPLOYEE",
+      "department": "FINANCE",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3150.95,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Florine Potter",
+      "empId": 8000368,
+      "role": "EMPLOYEE",
+      "department": "HR",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1015.23,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Whitney Bruce",
+      "empId": 8000369,
+      "role": "EMPLOYEE",
+      "department": "OFFICE_HANDLING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3916.33,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Velazquez Sears",
+      "empId": 8000370,
+      "role": "EMPLOYEE",
+      "department": "OFFICE_HANDLING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2511.18,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Cortez Nunez",
+      "empId": 8000371,
+      "role": "EMPLOYEE",
+      "department": "HR",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1890.99,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Erickson Stewart",
+      "empId": 8000372,
+      "role": "EMPLOYEE",
+      "department": "FINANCE",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2244.37,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Calderon Fitzgerald",
+      "empId": 8000373,
+      "role": "EMPLOYEE",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2472.36,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Bender Griffith",
+      "empId": 8000374,
+      "role": "EMPLOYEE",
+      "department": "TECH",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1330.13,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Frederick Graves",
+      "empId": 8000375,
+      "role": "EMPLOYEE",
+      "department": "OFFICE_HANDLING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2195.43,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Marsha Moss",
+      "empId": 8000376,
+      "role": "EMPLOYEE",
+      "department": "SALES",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1108.44,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Simone Forbes",
+      "empId": 8000377,
+      "role": "EMPLOYEE",
+      "department": "FINANCE",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2908.38,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Alfreda Lamb",
+      "empId": 8000378,
+      "role": "EMPLOYEE",
+      "department": "LEGAL",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2778.17,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Mayo Patrick",
+      "empId": 8000379,
+      "role": "EMPLOYEE",
+      "department": "LEGAL",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2506.06,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Latonya Shannon",
+      "empId": 8000380,
+      "role": "EMPLOYEE",
+      "department": "LEGAL",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3570.85,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Savage Albert",
+      "empId": 8000381,
+      "role": "EMPLOYEE",
+      "department": "SECURITY",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3829.98,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Reilly Howard",
+      "empId": 8000382,
+      "role": "EMPLOYEE",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1219.66,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Byrd Chapman",
+      "empId": 8000383,
+      "role": "EMPLOYEE",
+      "department": "HR",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3473.1,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Patton Peck",
+      "empId": 8000384,
+      "role": "EMPLOYEE",
+      "department": "TECH",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2318.49,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Cathryn Brock",
+      "empId": 8000385,
+      "role": "EMPLOYEE",
+      "department": "OFFICE_HANDLING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2456.45,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Violet Booth",
+      "empId": 8000386,
+      "role": "EMPLOYEE",
+      "department": "TECH",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1110.88,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Charlotte Kent",
+      "empId": 8000387,
+      "role": "EMPLOYEE",
+      "department": "TECH",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1954.77,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Valdez Oneil",
+      "empId": 8000388,
+      "role": "EMPLOYEE",
+      "department": "TECH",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1610.12,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Marta Franklin",
+      "empId": 8000389,
+      "role": "EMPLOYEE",
+      "department": "FINANCE",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1619.26,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Pugh Lowery",
+      "empId": 8000390,
+      "role": "EMPLOYEE",
+      "department": "HR",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2029.02,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Bianca Hampton",
+      "empId": 8000391,
+      "role": "EMPLOYEE",
+      "department": "SALES",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1383.7,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Pace Hansen",
+      "empId": 8000392,
+      "role": "EMPLOYEE",
+      "department": "TECH",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3265.69,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Carolyn Faulkner",
+      "empId": 8000393,
+      "role": "EMPLOYEE",
+      "department": "SALES",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1133.08,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Mullen Duran",
+      "empId": 8000394,
+      "role": "EMPLOYEE",
+      "department": "FINANCE",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3147.54,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Aline Walsh",
+      "empId": 8000395,
+      "role": "EMPLOYEE",
+      "department": "SECURITY",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1569.24,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Carole Moody",
+      "empId": 8000396,
+      "role": "EMPLOYEE",
+      "department": "OFFICE_HANDLING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1419.89,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Augusta Reilly",
+      "empId": 8000397,
+      "role": "EMPLOYEE",
+      "department": "HR",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1059.98,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Byers Robinson",
+      "empId": 8000398,
+      "role": "EMPLOYEE",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2172.54,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Lula Santiago",
+      "empId": 8000399,
+      "role": "EMPLOYEE",
+      "department": "FINANCE",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3546.83,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Young Stanton",
+      "empId": 8000400,
+      "role": "EMPLOYEE",
+      "department": "LEGAL",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3669.03,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Blevins Hammond",
+      "empId": 8000401,
+      "role": "EMPLOYEE",
+      "department": "TECH",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3205.6,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Raymond Sanford",
+      "empId": 8000402,
+      "role": "EMPLOYEE",
+      "department": "TECH",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2532.78,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Dorothea Kaufman",
+      "empId": 8000403,
+      "role": "EMPLOYEE",
+      "department": "SALES",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1697.46,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Liliana Vinson",
+      "empId": 8000404,
+      "role": "EMPLOYEE",
+      "department": "TECH",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3546.81,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Hinton Herring",
+      "empId": 8000405,
+      "role": "EMPLOYEE",
+      "department": "LEGAL",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2684.34,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Powers Jennings",
+      "empId": 8000406,
+      "role": "EMPLOYEE",
+      "department": "FINANCE",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3770.97,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Carpenter Riley",
+      "empId": 8000407,
+      "role": "EMPLOYEE",
+      "department": "HR",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1764.97,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Marian Poole",
+      "empId": 8000408,
+      "role": "EMPLOYEE",
+      "department": "TECH",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2115.1,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Jarvis Hendricks",
+      "empId": 8000409,
+      "role": "EMPLOYEE",
+      "department": "HR",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3766.04,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Fleming Mcclure",
+      "empId": 8000410,
+      "role": "EMPLOYEE",
+      "department": "LEGAL",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2319.73,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Claire Mcdowell",
+      "empId": 8000411,
+      "role": "EMPLOYEE",
+      "department": "FINANCE",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3262.84,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Decker Harper",
+      "empId": 8000412,
+      "role": "EMPLOYEE",
+      "department": "HR",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2046.83,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Matilda Bean",
+      "empId": 8000413,
+      "role": "EMPLOYEE",
+      "department": "SECURITY",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2411.3,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Iva Allison",
+      "empId": 8000414,
+      "role": "EMPLOYEE",
+      "department": "HR",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3911.9,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Amanda Harmon",
+      "empId": 8000415,
+      "role": "EMPLOYEE",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1399.76,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Gaines Hopkins",
+      "empId": 8000416,
+      "role": "EMPLOYEE",
+      "department": "FINANCE",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2652.56,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Katina Day",
+      "empId": 8000417,
+      "role": "EMPLOYEE",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3923.93,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Rosa Palmer",
+      "empId": 8000418,
+      "role": "EMPLOYEE",
+      "department": "TECH",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3997.9,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Joyce Garrison",
+      "empId": 8000419,
+      "role": "EMPLOYEE",
+      "department": "LEGAL",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3872.47,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Emilia Turner",
+      "empId": 8000420,
+      "role": "EMPLOYEE",
+      "department": "LEGAL",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2441.06,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Randall Lara",
+      "empId": 8000421,
+      "role": "EMPLOYEE",
+      "department": "HR",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3034.81,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Lorie Holt",
+      "empId": 8000422,
+      "role": "EMPLOYEE",
+      "department": "OFFICE_HANDLING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2229.2,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Dianne Wooten",
+      "empId": 8000423,
+      "role": "EMPLOYEE",
+      "department": "SECURITY",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3169.44,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Mavis Allen",
+      "empId": 8000424,
+      "role": "EMPLOYEE",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3793.36,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Sharron Evans",
+      "empId": 8000425,
+      "role": "EMPLOYEE",
+      "department": "SECURITY",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2030.07,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Manuela Howe",
+      "empId": 8000426,
+      "role": "EMPLOYEE",
+      "department": "OFFICE_HANDLING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1963.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Tiffany Barnett",
+      "empId": 8000427,
+      "role": "EMPLOYEE",
+      "department": "OFFICE_HANDLING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2133.64,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Diaz Massey",
+      "empId": 8000428,
+      "role": "EMPLOYEE",
+      "department": "OFFICE_HANDLING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2925.11,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Ebony Harris",
+      "empId": 8000429,
+      "role": "EMPLOYEE",
+      "department": "TECH",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1065.66,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Estelle Willis",
+      "empId": 8000430,
+      "role": "EMPLOYEE",
+      "department": "TECH",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2886.32,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Carr Brown",
+      "empId": 8000431,
+      "role": "EMPLOYEE",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2851.85,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Erna Melton",
+      "empId": 8000432,
+      "role": "EMPLOYEE",
+      "department": "LEGAL",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1250.17,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Cummings Carey",
+      "empId": 8000433,
+      "role": "EMPLOYEE",
+      "department": "OFFICE_HANDLING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1030.06,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Lilia Summers",
+      "empId": 8000434,
+      "role": "EMPLOYEE",
+      "department": "OFFICE_HANDLING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3283.59,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Etta Rosario",
+      "empId": 8000435,
+      "role": "EMPLOYEE",
+      "department": "HR",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3439.9,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Bertha Obrien",
+      "empId": 8000436,
+      "role": "EMPLOYEE",
+      "department": "OFFICE_HANDLING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1096.25,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Bond Gardner",
+      "empId": 8000437,
+      "role": "EMPLOYEE",
+      "department": "FINANCE",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1654.38,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Lauri Everett",
+      "empId": 8000438,
+      "role": "EMPLOYEE",
+      "department": "SECURITY",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1493.69,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Savannah Love",
+      "empId": 8000439,
+      "role": "EMPLOYEE",
+      "department": "LEGAL",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3809.96,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Erica Barrera",
+      "empId": 8000440,
+      "role": "EMPLOYEE",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1330.49,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Valentine Carson",
+      "empId": 8000441,
+      "role": "EMPLOYEE",
+      "department": "OFFICE_HANDLING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1156.79,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Yvette Romero",
+      "empId": 8000442,
+      "role": "EMPLOYEE",
+      "department": "OFFICE_HANDLING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1635.14,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Nita Mercer",
+      "empId": 8000443,
+      "role": "EMPLOYEE",
+      "department": "SALES",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3903.32,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Cotton Dixon",
+      "empId": 8000444,
+      "role": "EMPLOYEE",
+      "department": "FINANCE",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2101.33,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Jane Martin",
+      "empId": 8000445,
+      "role": "EMPLOYEE",
+      "department": "SALES",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2741.13,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Hendricks Long",
+      "empId": 8000446,
+      "role": "EMPLOYEE",
+      "department": "HR",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2016.54,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Keller Macdonald",
+      "empId": 8000447,
+      "role": "EMPLOYEE",
+      "department": "HR",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3952.61,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Willie Glenn",
+      "empId": 8000448,
+      "role": "EMPLOYEE",
+      "department": "TECH",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2379.8,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Marylou Baldwin",
+      "empId": 8000449,
+      "role": "EMPLOYEE",
+      "department": "TECH",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3443.96,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Craft Craig",
+      "empId": 8000450,
+      "role": "EMPLOYEE",
+      "department": "FINANCE",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3927.6,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Guerra Merritt",
+      "empId": 8000451,
+      "role": "EMPLOYEE",
+      "department": "OFFICE_HANDLING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3402.79,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Freda Sandoval",
+      "empId": 8000452,
+      "role": "EMPLOYEE",
+      "department": "HR",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1258.26,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Cabrera Foley",
+      "empId": 8000453,
+      "role": "EMPLOYEE",
+      "department": "TECH",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3944.87,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Christa Salazar",
+      "empId": 8000454,
+      "role": "EMPLOYEE",
+      "department": "LEGAL",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1388.78,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Howell Brennan",
+      "empId": 8000455,
+      "role": "EMPLOYEE",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3630.79,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Jewell Maldonado",
+      "empId": 8000456,
+      "role": "EMPLOYEE",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3010.91,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Rosella Donovan",
+      "empId": 8000457,
+      "role": "EMPLOYEE",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3766.5,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Sargent Mack",
+      "empId": 8000458,
+      "role": "EMPLOYEE",
+      "department": "SALES",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1862.38,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Henry Hartman",
+      "empId": 8000459,
+      "role": "EMPLOYEE",
+      "department": "FINANCE",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1440.78,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Farley Price",
+      "empId": 8000460,
+      "role": "EMPLOYEE",
+      "department": "FINANCE",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2384.34,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Lizzie Singleton",
+      "empId": 8000461,
+      "role": "EMPLOYEE",
+      "department": "LEGAL",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2628.67,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Foley Stout",
+      "empId": 8000462,
+      "role": "EMPLOYEE",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2378.94,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Ursula Glass",
+      "empId": 8000463,
+      "role": "EMPLOYEE",
+      "department": "SALES",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3159.12,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Roberson Ewing",
+      "empId": 8000464,
+      "role": "EMPLOYEE",
+      "department": "OFFICE_HANDLING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1961.49,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Dixon Hutchinson",
+      "empId": 8000465,
+      "role": "EMPLOYEE",
+      "department": "SECURITY",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3411.54,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Horn Holman",
+      "empId": 8000466,
+      "role": "EMPLOYEE",
+      "department": "TECH",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2228.15,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Fulton Grimes",
+      "empId": 8000467,
+      "role": "EMPLOYEE",
+      "department": "HR",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1730.56,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Joy Coleman",
+      "empId": 8000468,
+      "role": "EMPLOYEE",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3492.1,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Dillard French",
+      "empId": 8000469,
+      "role": "EMPLOYEE",
+      "department": "SECURITY",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1458.58,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Sears Powers",
+      "empId": 8000470,
+      "role": "EMPLOYEE",
+      "department": "OFFICE_HANDLING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3248.72,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Meyer Mann",
+      "empId": 8000471,
+      "role": "EMPLOYEE",
+      "department": "SALES",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2044.59,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Leila Downs",
+      "empId": 8000472,
+      "role": "EMPLOYEE",
+      "department": "FINANCE",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2611.8,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Beryl Giles",
+      "empId": 8000473,
+      "role": "EMPLOYEE",
+      "department": "SALES",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1076.76,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Burris Bullock",
+      "empId": 8000474,
+      "role": "EMPLOYEE",
+      "department": "OFFICE_HANDLING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3319.13,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Meadows Webb",
+      "empId": 8000475,
+      "role": "EMPLOYEE",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2858.49,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Ana Berger",
+      "empId": 8000476,
+      "role": "EMPLOYEE",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2304.72,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Melva Stevens",
+      "empId": 8000477,
+      "role": "EMPLOYEE",
+      "department": "SALES",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3941.68,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Joni Callahan",
+      "empId": 8000478,
+      "role": "EMPLOYEE",
+      "department": "OFFICE_HANDLING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2113.03,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Adrienne Wright",
+      "empId": 8000479,
+      "role": "EMPLOYEE",
+      "department": "OFFICE_HANDLING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2831.95,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Valarie Boyer",
+      "empId": 8000480,
+      "role": "EMPLOYEE",
+      "department": "OFFICE_HANDLING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2108.07,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Tanisha Castro",
+      "empId": 8000481,
+      "role": "EMPLOYEE",
+      "department": "FINANCE",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3148.93,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Helena Mckenzie",
+      "empId": 8000482,
+      "role": "EMPLOYEE",
+      "department": "SECURITY",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2879.14,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Sharlene Bauer",
+      "empId": 8000483,
+      "role": "EMPLOYEE",
+      "department": "SECURITY",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2662.46,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Joanne Browning",
+      "empId": 8000484,
+      "role": "EMPLOYEE",
+      "department": "LEGAL",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2967.68,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Clare Nash",
+      "empId": 8000485,
+      "role": "EMPLOYEE",
+      "department": "LEGAL",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3047.73,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Adriana Savage",
+      "empId": 8000486,
+      "role": "EMPLOYEE",
+      "department": "LEGAL",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1012.89,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Anne Manning",
+      "empId": 8000487,
+      "role": "EMPLOYEE",
+      "department": "SECURITY",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1809.8,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Petersen Gibbs",
+      "empId": 8000488,
+      "role": "EMPLOYEE",
+      "department": "SALES",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1754.95,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Henrietta Harrington",
+      "empId": 8000489,
+      "role": "EMPLOYEE",
+      "department": "SALES",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3653.88,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Ada Battle",
+      "empId": 8000490,
+      "role": "EMPLOYEE",
+      "department": "FINANCE",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2084.76,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Delores Donaldson",
+      "empId": 8000491,
+      "role": "EMPLOYEE",
+      "department": "OFFICE_HANDLING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1048.17,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Barber Alexander",
+      "empId": 8000492,
+      "role": "EMPLOYEE",
+      "department": "MARKETING",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1348.5,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Key Johnston",
+      "empId": 8000493,
+      "role": "EMPLOYEE",
+      "department": "HR",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3294.63,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Addie Oneill",
+      "empId": 8000494,
+      "role": "EMPLOYEE",
+      "department": "SALES",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3222.99,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Shelly Vargas",
+      "empId": 8000495,
+      "role": "EMPLOYEE",
+      "department": "HR",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3281.08,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Katelyn Lloyd",
+      "empId": 8000496,
+      "role": "EMPLOYEE",
+      "department": "LEGAL",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 3527.23,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Tillman Shepherd",
+      "empId": 8000497,
+      "role": "EMPLOYEE",
+      "department": "TECH",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2620.89,
+        "currency": "USD"
+      }
+    },
+    {
+      "name": "Crystal Steele",
+      "empId": 8000498,
+      "role": "EMPLOYEE",
+      "department": "HR",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 1469.56,
+        "currency": "GBP"
+      }
+    },
+    {
+      "name": "Lancaster Church",
+      "empId": 8000499,
+      "role": "EMPLOYEE",
+      "department": "HR",
+      "reportsTo": "Company",
+      "salary": {
+        "salary": 2806.44,
+        "currency": "INR"
+      }
+    }
+  ]
+}
