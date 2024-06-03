@@ -155,6 +155,43 @@ public class EmployeesDataRepository {
         }
     }
 
+    public EmployeeWithMaxReports getEmployeeWithMaximumSkipLevelDirectReports(){
+        maxReports = -1;
+        maxReportEmployee = null;
+        Employee root = getRoot();
+        getEmployeeWithMaximumSkipLevelDirectReports(root);
+        EmployeeWithMaxReports employeeWithMaxReports = EmployeeWithMaxReports
+                .builder()
+                .employeeName(maxReportEmployee.getName())
+                .directReports(new ArrayList<>())
+                .totalSkipLevelReports(maxReports)
+                .build();
+        for(String directReports : maxReportEmployee.getDirectReports()){
+            employeeWithMaxReports.getDirectReports().add(this.globalEmployeeData.get(directReports).getName() +"(Direct Reports:" + this.globalEmployeeData.get(directReports).getDirectReports().size()+")");
+        }
+        return employeeWithMaxReports;
+    }
+
+    private int getEmployeeWithMaximumSkipLevelDirectReports(Employee employee){
+        if(employee.getDirectReports() == null || employee.getDirectReports().isEmpty()){
+            return 0;
+        }
+
+        int countOfSkipLevelReports = employee.getDirectReports().size();
+
+        for(String directReport : employee.getDirectReports()){
+            countOfSkipLevelReports += this.globalEmployeeData.get(directReport).getDirectReports().size();
+            getEmployeeWithMaximumSkipLevelDirectReports(this.globalEmployeeData.get(directReport));
+        }
+
+        if(countOfSkipLevelReports > maxReports){
+            maxReports = countOfSkipLevelReports;
+            maxReportEmployee = employee;
+        }
+        System.out.println(employee.getName()+", directReports:"+employee.getDirectReports().size()+", directSkipLevelReports:"+countOfSkipLevelReports);
+        return countOfSkipLevelReports;
+    }
+
     /**
      * Write Functions:
      * 2. Find_common_manager(employee1, employee2) — This function should return the lowest level of common manager of any given 2 employees.

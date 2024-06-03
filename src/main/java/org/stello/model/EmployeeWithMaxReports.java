@@ -18,4 +18,5 @@ import java.util.List;
 public class EmployeeWithMaxReports {
     String employeeName;
     List<String> directReports;
+    Integer totalSkipLevelReports;
 }

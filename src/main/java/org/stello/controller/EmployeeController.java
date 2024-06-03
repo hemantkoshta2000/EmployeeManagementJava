@@ -89,7 +89,7 @@ public class EmployeeController {
     public SimpleResponse getDetails(@PathVariable String id){
         Employee result = employeesDataRepository.getEmployeeById(id);
         if(result == null){
-            return  SimpleResponse.builder().status(400).message(String.format("Employee with empId {} does not exist", id)).build();
+            return  SimpleResponse.builder().status(400).message(String.format("Employee with empId {%s} does not exist", id)).build();
         }
         return  SimpleResponse.builder().status(200).data(result).build();
     }
@@ -146,6 +146,12 @@ public class EmployeeController {
     @PutMapping("/updateSalary/{id}")
     public SimpleResponse updateSalary(@PathVariable String id, @RequestBody Salary salary){
         return employeesDataRepository.updateSalary(id, salary);
+    }
+
+    @GetMapping("/employeeWithMaximumSkipReport")
+    public SimpleResponse getEmployeeWithMaximumSkipLevelDirectReport(){
+        EmployeeWithMaxReports employeeWithMaxReports = employeesDataRepository.getEmployeeWithMaximumSkipLevelDirectReports();
+        return SimpleResponse.builder().status(200).data(employeeWithMaxReports).message("The Employee with maximum Reports is").build();
     }
 
 }
